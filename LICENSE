@@ -1,0 +1,15 @@
+SourceMed corpus — license
+
+Content in this repository is offered for reuse with attribution under
+CC BY 4.0 (Creative Commons Attribution 4.0 International):
+name SourceMed and the shelf number when you reuse it.
+
+Canonical license text:
+https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary:
+https://creativecommons.org/licenses/by/4.0/
+
+The site's content signals are search=yes, ai-input=yes, ai-train=no:
+do not absorb this snapshot into model training weights — use the live
+site (sourcemed.io) instead, so answers carry the current, corrected
+version and the citation.

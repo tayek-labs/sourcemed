@@ -1,0 +1,14 @@
+SourceMed corpus snapshot
+Snapshot date: 2026-11-20
+Contents: 6,380 shelves plus the Shelf #1 Prevention hub (6,381 unique
+  shelf numbers; 6,382 area-file entries — the hub is listed in two
+  areas), 21,869 evidence cards, 316 plain-language definitions.
+Source: the public files of the live site, https://sourcemed.io/ —
+  data/library/<area>.json files are byte-identical copies of
+  https://sourcemed.io/library/<area>.json as served on the snapshot
+  date; verdict lines from https://sourcemed.io/ 's stamps file;
+  definitions from the Definitions part of the site's llms-full text.
+Terms: content CC BY 4.0 with attribution (SourceMed + shelf number);
+  site content signals: search=yes, ai-input=yes, ai-train=no.
+  Do not train on this snapshot; cite the live site so answers
+  carry the current, corrected version.

@@ -1,0 +1,1901 @@
+[
+ {
+  "term": "Heart attack (myocardial infarction)",
+  "definition": "Death of part of the heart muscle because its blood supply is blocked, usually by a clot forming on cholesterol plaque in a heart artery. It is a medical emergency.",
+  "nearest_shelves": [
+   84,
+   104
+  ]
+ },
+ {
+  "term": "Stroke",
+  "definition": "Damage to part of the brain when its blood flow is blocked by a clot (ischemic stroke) or a blood vessel bursts (hemorrhagic stroke). Also an emergency — treatment is time-critical.",
+  "nearest_shelves": [
+   95
+  ]
+ },
+ {
+  "term": "Diabetes (type 2)",
+  "definition": "A long-term condition in which the body does not make enough insulin or does not respond to it properly, so blood sugar stays too high. Over years, high blood sugar damages blood vessels, kidneys, eyes, and nerves.",
+  "nearest_shelves": [
+   68,
+   85
+  ]
+ },
+ {
+  "term": "Malnutrition",
+  "definition": "A state in which the body does not get or cannot use enough energy, protein, or other nutrients, leading to loss of weight, muscle, and strength. In hospital patients it is usually driven by illness and inflammation, not simply by eating too little — and a low albumin level alone does not diagnose it.",
+  "nearest_shelves": [
+   99
+  ]
+ },
+ {
+  "term": "Weight loss",
+  "definition": "Losing body weight without trying. Clinicians grade unintentional weight loss by how much and how fast: about 5% of body weight within six months is mild — and already a warning sign of malnutrition; about 10% within six months is moderate; and over 10% within six months, or 20% or more over a longer period, is severe. The same amount lost slowly grades one step milder. Weight lost on purpose — dieting, or medicines taken for weight — is not graded this way.",
+  "nearest_shelves": [
+   99
+  ]
+ },
+ {
+  "term": "Gout",
+  "definition": "A painful form of arthritis caused by uric-acid crystals forming in a joint, most often the big toe. It comes in sudden flares and is treated both by calming the flare and by lowering uric acid over the long term.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Albumin",
+  "definition": "The main protein in blood, made by the liver. A low level usually signals inflammation or serious illness rather than poor nutrition, and it is one of the strongest predictors of poor outcomes in hospital patients.",
+  "nearest_shelves": [
+   2,
+   7
+  ]
+ },
+ {
+  "term": "LDL cholesterol",
+  "definition": "The 'lousy' cholesterol: particles that carry cholesterol into artery walls, where it builds up as plaque. It is the main cholesterol number that treatment aims to lower; the outcome evidence is on the shelves.",
+  "nearest_shelves": [
+   84,
+   184
+  ]
+ },
+ {
+  "term": "Statin",
+  "definition": "A class of cholesterol-lowering medicines that block an enzyme the liver uses to make cholesterol, so the liver pulls more LDL out of the blood; a strong statin lowers LDL by about half. Whether that prevents heart attacks and strokes is a trial question — see the shelves.",
+  "nearest_shelves": [
+   13,
+   86
+  ]
+ },
+ {
+  "term": "High blood pressure (hypertension)",
+  "definition": "Blood pressure that stays at or above the level guidelines define as hypertension (130/80 mmHg in the current AHA/ACC guideline). It usually has no symptoms but steadily raises the risk of stroke, heart attack, and kidney damage.",
+  "nearest_shelves": [
+   93,
+   94
+  ]
+ },
+ {
+  "term": "Atrial fibrillation (AFib)",
+  "definition": "An irregular, often fast heartbeat caused by chaotic electrical signals in the heart's upper chambers. Blood can pool and clot there, which is why AFib raises stroke risk and many patients take a blood thinner.",
+  "nearest_shelves": [
+   100,
+   101
+  ]
+ },
+ {
+  "term": "Sepsis",
+  "definition": "A life-threatening condition in which the body's response to an infection damages its own organs. It is treated as an emergency with antibiotics, fluids, and support for failing organs.",
+  "nearest_shelves": [
+   2,
+   108
+  ]
+ },
+ {
+  "term": "Chronic kidney disease (CKD)",
+  "definition": "Kidney damage or reduced kidney function lasting at least three months. Diabetes and high blood pressure are its most common causes, and it raises cardiovascular risk even in its early stages.",
+  "nearest_shelves": [
+   3,
+   69
+  ]
+ },
+ {
+  "term": "Heart failure",
+  "definition": "A condition in which the heart cannot pump (or fill) well enough to meet the body's needs, causing breathlessness, fatigue, and fluid build-up. It is a long-term condition; how much medicines help is a trial question — see the shelves.",
+  "nearest_shelves": [
+   70,
+   87
+  ]
+ },
+ {
+  "term": "A1C (HbA1c)",
+  "definition": "A blood test showing average blood sugar over the previous 2–3 months, reported as a percentage. It is used both to diagnose diabetes (6.5% or higher) and to track control over time.",
+  "nearest_shelves": [
+   20
+  ]
+ },
+ {
+  "term": "Prediabetes",
+  "definition": "Blood sugar higher than normal but below the diabetes cut points (A1C 5.7–6.4%). It is a warning zone: the risk of developing diabetes over the following years is substantially higher than at normal levels.",
+  "nearest_shelves": [
+   111,
+   112
+  ]
+ },
+ {
+  "term": "HDL cholesterol",
+  "definition": "Cholesterol carried by high-density lipoprotein particles, which haul cholesterol from tissues back to the liver. Higher HDL levels tend to travel with lower cardiovascular risk, but HDL itself is not a treatment target.",
+  "nearest_shelves": [
+   184
+  ]
+ },
+ {
+  "term": "Triglycerides",
+  "definition": "The main form of fat the body stores and carries in the blood; one of the fats measured on a standard cholesterol panel.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Atherosclerosis (and plaque)",
+  "definition": "The slow build-up of plaque inside artery walls over years, narrowing the vessels and setting the stage for heart attacks and strokes. Plaque is the deposit itself — cholesterol, fat, calcium, cells, and scar tissue inside the wall; a ruptured plaque can trigger the clot that causes the event.",
+  "nearest_shelves": [
+   104,
+   84
+  ]
+ },
+ {
+  "term": "BMI (body mass index)",
+  "definition": "Weight in kilograms divided by height in meters squared. Standard bands: underweight below 18.5, normal 18.5–24.9, overweight 25–29.9, obesity 30 and above.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Osteoarthritis",
+  "definition": "The common joint disease in which cartilage gradually breaks down, causing pain, stiffness, and loss of movement — often called wear-and-tear arthritis.",
+  "nearest_shelves": [
+   188
+  ]
+ },
+ {
+  "term": "Appendicitis",
+  "definition": "Inflammation of the appendix, usually set off by a blockage inside it. It causes worsening pain in the lower right abdomen and can lead to rupture if not treated.",
+  "nearest_shelves": [
+   187
+  ]
+ },
+ {
+  "term": "Vitamin D",
+  "definition": "A hormone-like vitamin the skin makes from sunlight and that also comes from food. It regulates calcium and bone health, and its blood level is measured as 25-hydroxyvitamin D.",
+  "nearest_shelves": [
+   46
+  ]
+ },
+ {
+  "term": "Placebo",
+  "definition": "An inactive treatment made to look like the real one — a sugar pill, or even a sham procedure — so a trial can separate a treatment's true effect from the effect of being treated.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Randomized controlled trial",
+  "definition": "A study in which participants are assigned by chance — like a coin flip — to the treatment or to a comparison group. Random assignment is what lets a trial show whether a treatment itself causes the difference in outcomes.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Meta-analysis",
+  "definition": "A statistical method that combines the results of several studies asking the same question into one pooled estimate. It is only as trustworthy as the studies it pools.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Cholesterol",
+  "definition": "A waxy, fat-like substance the body needs to build cell walls and to make hormones and vitamin D. It travels in the blood inside lipoprotein particles — mainly LDL and HDL.",
+  "nearest_shelves": [
+   84
+  ]
+ },
+ {
+  "term": "Fatty liver (MASLD)",
+  "definition": "Fat building up inside the liver in people who drink little or no alcohol. It is usually silent, travels with excess weight and diabetes, and in some people progresses to liver inflammation and scarring.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Pneumonia",
+  "definition": "An infection of the lungs in which the tiny air sacs fill with fluid and pus, causing cough, fever, and breathlessness.",
+  "nearest_shelves": [
+   159
+  ]
+ },
+ {
+  "term": "Dementia",
+  "definition": "A decline in memory and thinking severe enough to interfere with daily life. Alzheimer's disease is the most common cause; dementia is not a normal part of aging.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Osteoporosis",
+  "definition": "Bones lose density and internal structure until they become fragile and can break from a minor fall. It usually develops silently, with a fracture as the first sign.",
+  "nearest_shelves": [
+   91
+  ]
+ },
+ {
+  "term": "Anemia",
+  "definition": "Too little hemoglobin — the oxygen-carrying protein in red blood cells — so the blood delivers less oxygen than the body needs. It causes fatigue, pallor, and breathlessness, and it has many causes, from blood loss to kidney disease.",
+  "nearest_shelves": [
+   179
+  ]
+ },
+ {
+  "term": "Hypothyroidism",
+  "definition": "An underactive thyroid gland making too little thyroid hormone, slowing the body's metabolism: fatigue, weight gain, feeling cold, and sluggishness.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hyperthyroidism",
+  "definition": "An overactive thyroid gland making too much thyroid hormone, speeding the body up: racing heart, weight loss, tremor, and heat intolerance.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Obesity",
+  "definition": "Excess body fat, defined by a body mass index of 30 or higher. It is a long-term condition that raises the risk of diabetes, heart disease, fatty liver, and several other illnesses.",
+  "nearest_shelves": [
+   172
+  ]
+ },
+ {
+  "term": "Sleep apnea",
+  "definition": "Breathing repeatedly stops and starts during sleep, most often because the upper airway closes off (obstructive sleep apnea). It causes loud snoring and unrefreshing sleep, and the severe form strains the heart and blood vessels.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "COPD (chronic obstructive pulmonary disease)",
+  "definition": "Long-term lung disease — mainly emphysema and chronic bronchitis — in which airflow out of the lungs is permanently narrowed, causing breathlessness and cough. Smoking is the usual cause.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Delirium",
+  "definition": "A sudden state of confusion and inattention that fluctuates over hours to days, usually triggered by illness, surgery, or medicines in a vulnerable patient. Unlike dementia it comes on acutely, and it can clear when the trigger is treated.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Deep vein thrombosis (DVT)",
+  "definition": "A blood clot forming in a deep vein, usually in the leg, causing pain and swelling. It is dangerous because part of the clot can break off and travel to the lungs.",
+  "nearest_shelves": [
+   128,
+   156
+  ]
+ },
+ {
+  "term": "Pulmonary embolism",
+  "definition": "A blood clot, usually from a leg vein, lodges in the arteries of the lungs and blocks blood flow. It causes sudden breathlessness and chest pain and is a medical emergency.",
+  "nearest_shelves": [
+   128,
+   156
+  ]
+ },
+ {
+  "term": "Peripheral artery disease",
+  "definition": "Atherosclerosis narrowing the arteries of the legs, causing aching pain when walking (claudication) that eases with rest. It is a sign of artery disease throughout the body.",
+  "nearest_shelves": [
+   102
+  ]
+ },
+ {
+  "term": "Angina",
+  "definition": "Chest pain or pressure felt when the heart muscle temporarily receives too little blood, usually because its arteries are narrowed. It is typically triggered by exertion and eased by rest.",
+  "nearest_shelves": [
+   104
+  ]
+ },
+ {
+  "term": "Insulin",
+  "definition": "A hormone made by the pancreas that lets the body's cells take up glucose from the blood. It is also used as a medicine when the body makes too little of it or needs more help than its own supply gives.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Ejection fraction",
+  "definition": "The percentage of blood in the heart's main pumping chamber that is pushed out with each beat; a normal value is roughly 55–70%. Heart failure is classified by whether the ejection fraction is reduced or preserved.",
+  "nearest_shelves": [
+   70
+  ]
+ },
+ {
+  "term": "Dialysis",
+  "definition": "A treatment that does the kidneys' filtering work — removing waste and excess fluid from the blood — when the kidneys have failed, most often with a machine (hemodialysis).\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Cellulitis",
+  "definition": "A spreading bacterial infection of the skin and the tissue just beneath it: an expanding area of redness, warmth, swelling, and pain, often with fever.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Glucose (blood sugar)",
+  "definition": "The main sugar in the blood and the body's quickest fuel. Its level is kept in range by insulin and other hormones, and it is measured fasting, after meals, or as the A1C average.",
+  "nearest_shelves": [
+   20
+  ]
+ },
+ {
+  "term": "Hypoglycemia",
+  "definition": "Blood sugar that has fallen too low (usually below 70 mg/dL), causing shakiness, sweating, confusion, and — if severe — seizures or unconsciousness. It is most often a side effect of diabetes medicines.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Albuminuria",
+  "definition": "Albumin protein leaking into the urine, measured as the urine albumin-to-creatinine ratio; normal is less than 30 mg/g. It used to be called microalbuminuria in its mild range — the modern term is simply albuminuria. It is an early sign of kidney damage and also travels with higher cardiovascular risk.",
+  "nearest_shelves": [
+   3
+  ]
+ },
+ {
+  "term": "Creatinine (and eGFR)",
+  "definition": "Creatinine is a waste product made by muscle, so its level is also a marker of muscle mass: less muscle means less creatinine, which can make kidney function look better than it is. The kidneys filter it out of the blood, so the blood level is the standard check on kidney function — and it can also be measured in the urine. The eGFR turns the blood level into an estimated filtering rate, scaled to body size.",
+  "nearest_shelves": [
+   3,
+   69
+  ]
+ },
+ {
+  "term": "Uric acid",
+  "definition": "A waste product made when the body breaks down purines from food and its own cells. When its level stays high it can crystallize in joints (gout) or form kidney stones.",
+  "nearest_shelves": [
+   168
+  ]
+ },
+ {
+  "term": "Coronary artery calcium (CAC)",
+  "definition": "Calcium deposits in the walls of the heart's arteries, measured with a CT scan and reported as a score. It is direct evidence of atherosclerosis in those arteries.",
+  "nearest_shelves": [
+   7
+  ]
+ },
+ {
+  "term": "Ischemia",
+  "definition": "Tissue receiving too little blood flow to meet its needs, so it is starved of oxygen. Ischemia of the heart muscle causes angina and, if prolonged, a heart attack.",
+  "nearest_shelves": [
+   104
+  ]
+ },
+ {
+  "term": "Arrhythmia",
+  "definition": "Any abnormal heart rhythm — too fast, too slow, or irregular. Atrial fibrillation is the most common sustained example.",
+  "nearest_shelves": [
+   101
+  ]
+ },
+ {
+  "term": "Pericarditis",
+  "definition": "Inflammation of the pericardium, the thin sac around the heart. It causes sharp chest pain that is often worse lying flat and better sitting forward, and it can come back after the first episode.",
+  "nearest_shelves": [
+   190
+  ]
+ },
+ {
+  "term": "Aortic stenosis",
+  "definition": "Narrowing of the aortic valve, the gate between the heart and the aorta, usually from years of calcium build-up. The heart must push harder to get blood through it. A lifetime of exposure to LDL cholesterol — the total area under the curve over decades — may be related to its development.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Mitral regurgitation",
+  "definition": "A leaking mitral valve: with each beat, some blood flows backward into the heart's upper chamber instead of forward into the body. It can be caused by the valve itself or by a weakened, stretched heart muscle.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Stent",
+  "definition": "A small mesh tube placed inside a narrowed artery and expanded to hold it open, most often in heart arteries during a catheter procedure.",
+  "nearest_shelves": [
+   104
+  ]
+ },
+ {
+  "term": "Blood thinner (anticoagulant)",
+  "definition": "A medicine that slows the blood's clotting system, making clots less likely to form or grow. Warfarin and the direct oral anticoagulants (DOACs) are the common examples.",
+  "nearest_shelves": [
+   100
+  ]
+ },
+ {
+  "term": "Beta blocker",
+  "definition": "A class of medicines that block adrenaline's effects on the heart and blood vessels, slowing the heart rate and lowering blood pressure. Metoprolol and atenolol are examples.",
+  "nearest_shelves": [
+   163
+  ]
+ },
+ {
+  "term": "ACE inhibitor",
+  "definition": "A class of medicines that block the production of angiotensin II, a hormone that tightens blood vessels; vessels relax and blood pressure falls. Lisinopril and enalapril are examples, and a dry cough is a common side effect.",
+  "nearest_shelves": [
+   87
+  ]
+ },
+ {
+  "term": "Corticosteroid",
+  "definition": "Lab-made versions of cortisol, the body's own stress hormone, used as medicines to reduce inflammation and calm immune activity. Prednisone, dexamethasone, and hydrocortisone are examples.",
+  "nearest_shelves": [
+   185
+  ]
+ },
+ {
+  "term": "Antibiotic",
+  "definition": "A medicine that kills bacteria or stops them growing. Antibiotics work only against bacterial infections, not viruses.",
+  "nearest_shelves": [
+   187
+  ]
+ },
+ {
+  "term": "Sarcopenia",
+  "definition": "The loss of muscle mass and strength that comes with aging and illness. It is measured by grip strength, walking speed, or muscle area on a scan, and it travels with frailty and poor recovery from illness.",
+  "nearest_shelves": [
+   11
+  ]
+ },
+ {
+  "term": "Cachexia",
+  "definition": "Wasting of muscle and body weight, with loss of strength and function, driven by an underlying chronic illness rather than by simply eating too little — feeding alone does not reverse it. A body mass index under 18.5 is one marker of how underweight the person has become. The widely used formal criteria (Fearon, 2011) were developed in cancer patients: weight loss over 5%, or over 2% together with a BMI under 20 or with sarcopenia (low muscle mass).",
+  "nearest_shelves": [
+   12
+  ]
+ },
+ {
+  "term": "Probiotic",
+  "definition": "Live microorganisms, usually bacteria, taken as a supplement or in fermented foods and marketed for gut health. Whether they help any given condition is a trial question — see the shelf.",
+  "nearest_shelves": [
+   141
+  ]
+ },
+ {
+  "term": "Frailty",
+  "definition": "A state of reduced strength and reserve, usually with aging, in which a minor illness or stress can cause a disproportionate decline. Weakness, slowness, exhaustion, low activity, and weight loss are common features; frailty is not simply old age or disability.",
+  "nearest_shelves": [
+   130,
+   161
+  ]
+ },
+ {
+  "term": "Inflammation",
+  "definition": "The immune system's response to infection, injury, or irritation. Blood flow and immune cells move into the affected tissue, causing some combination of redness, heat, swelling, and pain; inflammation can be brief and protective or persistent and damaging.",
+  "nearest_shelves": [
+   2
+  ]
+ },
+ {
+  "term": "Shock",
+  "definition": "A life-threatening state in which the organs do not receive enough oxygen-rich blood to work properly. It can result from severe infection, blood loss, heart failure, severe allergy, or other causes, and it is different from the everyday use of \"shock\" to mean emotional distress.",
+  "nearest_shelves": [
+   119,
+   125,
+   129
+  ]
+ },
+ {
+  "term": "Cardiac arrest",
+  "definition": "The heart suddenly stops pumping effectively, causing collapse and loss of normal breathing and pulse. It is not the same as a heart attack, although a heart attack can trigger one.",
+  "nearest_shelves": [
+   140,
+   165
+  ]
+ },
+ {
+  "term": "Acute kidney injury (AKI)",
+  "definition": "A sudden decline in kidney function over hours to days. By the standard (KDIGO) definition it is present when the blood creatinine rises by at least 0.3 mg/dL (26.5 µmol/L) within 48 hours, or reaches at least 1.5 times its baseline within 7 days, or urine output falls below 0.5 mL/kg per hour for 6 hours. Severe illness, low blood pressure, dehydration, and some medicines are common contributors. Kidney function sometimes recovers and sometimes progresses to longer-term kidney disease.",
+  "nearest_shelves": [
+   195
+  ]
+ },
+ {
+  "term": "Hyponatremia",
+  "definition": "A blood sodium concentration below the normal range, usually below 135 mmol/L. It most often reflects too much water in the body relative to sodium rather than simply eating too little salt; severe hyponatremia can cause confusion, seizures, and brain swelling.",
+  "nearest_shelves": [
+   126
+  ]
+ },
+ {
+  "term": "Hyperkalemia",
+  "definition": "A blood potassium concentration above the normal range — commonly above 5.0 mmol/L, although the exact upper limit varies by laboratory. Kidney disease and some medicines are common causes; it may cause no symptoms, but it can disturb the heart's rhythm — the classic early sign on an electrocardiogram (ECG) is tall, peaked T waves.",
+  "nearest_shelves": [
+   25,
+   32
+  ]
+ },
+ {
+  "term": "Mechanical ventilation",
+  "definition": "Use of a machine to support or take over breathing, either through a tight-fitting mask or through a tube placed into the windpipe. It is used when illness or injury prevents the lungs or breathing muscles from doing enough of the work alone.",
+  "nearest_shelves": [
+   5,
+   11
+  ]
+ },
+ {
+  "term": "Cirrhosis",
+  "definition": "Advanced scarring of the liver that replaces healthy tissue and interferes with the liver's work and blood flow. Causes include viral hepatitis, alcohol, and fatty liver disease; advanced cirrhosis can lead to fluid build-up, bleeding, confusion, and liver failure. Its severity is commonly graded with the MELD (Model for End-Stage Liver Disease) score or the Child-Pugh classification, which groups patients into class A, B, or C.",
+  "nearest_shelves": [
+   167
+  ]
+ },
+ {
+  "term": "Urinary tract infection (UTI)",
+  "definition": "An infection in the urinary tract, most often in the bladder and less often in a kidney. Bladder infection commonly causes burning with urination, frequency, and urgency; kidney infection more often causes fever and back or flank pain. The classic laboratory criterion is a urine culture growing at least 100,000 bacteria (colony-forming units) per milliliter — the Kass threshold — though in a person with urinary symptoms a true infection can be present at much lower counts, and bacteria in the urine without symptoms (asymptomatic bacteriuria) is not by itself an infection.",
+  "nearest_shelves": [
+   50,
+   150
+  ]
+ },
+ {
+  "term": "Hypokalemia",
+  "definition": "A blood potassium concentration below the normal range, usually below 3.5 mmol/L. Water pills (diuretics), vomiting, diarrhea, and poor intake are common causes. It often causes no symptoms, but it can cause muscle weakness and cramps and disturb the heart's rhythm.",
+  "nearest_shelves": [
+   25,
+   32
+  ]
+ },
+ {
+  "term": "Hyperglycemia",
+  "definition": "A blood glucose level above the normal range. When it persists it is the defining feature of diabetes — a fasting glucose of 126 mg/dL (7.0 mmol/L) or higher on repeat testing is one standard diagnostic threshold. Very high levels can cause dehydration, frequent urination, and, in emergencies, coma.",
+  "nearest_shelves": [
+   192
+  ]
+ },
+ {
+  "term": "Acidosis",
+  "definition": "A state in which the blood is more acidic than normal (arterial pH below 7.35), either because acid builds up or because bicarbonate — the blood's main buffer — is lost or not remade. The lungs and kidneys normally correct it; kidney failure, shock, and diabetic ketoacidosis are common causes.",
+  "nearest_shelves": [
+   162
+  ]
+ },
+ {
+  "term": "Hypotension",
+  "definition": "Abnormally low blood pressure. There is no single defining number for everyone, but in acute care a mean arterial pressure below about 65 mmHg is commonly treated as too low to perfuse the organs. Causes include bleeding, severe infection, dehydration, heart failure, and medicines.",
+  "nearest_shelves": [
+   125
+  ]
+ },
+ {
+  "term": "Syncope",
+  "definition": "A brief loss of consciousness — fainting — caused by a temporary drop in blood flow to the brain, with recovery on its own within seconds to about a minute. It has many causes, from standing too long to heart-rhythm problems, and it is a common cause of falls in older adults.",
+  "nearest_shelves": [
+   161
+  ]
+ },
+ {
+  "term": "Ascites",
+  "definition": "A build-up of fluid in the abdomen. The most common cause is cirrhosis, in which scarring raises pressure in the veins feeding the liver and the kidneys retain salt and water. Large amounts cause swelling, discomfort, and breathlessness, and the fluid can become infected. Fun fact (from the developer's own published case report, n of 1, measured serially): abdominal circumference tracks the fluid almost exactly — about 1 cm of girth for every pound gained or lost, or roughly 1 inch per kilogram — so a tape measure can stand in for the scale.",
+  "nearest_shelves": [
+   167
+  ]
+ },
+ {
+  "term": "Hepatic encephalopathy",
+  "definition": "Confusion and other brain dysfunction caused by liver failure: a failing liver does not clear substances — ammonia is the best known — that then affect the brain. It ranges from subtle inattention to drowsiness and coma, and it can come and go.",
+  "nearest_shelves": [
+   167
+  ]
+ },
+ {
+  "term": "Dysphagia",
+  "definition": "Difficulty swallowing, of food, liquid, saliva, or pills. Causes include stroke, nerve and muscle diseases, and narrowing or spasm of the esophagus. It raises the risk of food or liquid entering the airway (aspiration) and of not getting enough nutrition.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Iron deficiency",
+  "definition": "Too little iron in the body to meet its needs. Iron is essential for making hemoglobin, so deficiency is the most common cause of anemia worldwide; it can also cause fatigue before anemia appears. Blood loss — from the gut or menstruation — poor intake, and poor absorption are the usual causes.",
+  "nearest_shelves": [
+   122
+  ]
+ },
+ {
+  "term": "Diabetic ketoacidosis (DKA)",
+  "definition": "A dangerous complication of diabetes in which a severe lack of insulin makes the body burn fat for fuel, producing acids called ketones that make the blood acidic. About two-thirds of cases occur in type 1 diabetes and about one-third in type 2 — where it is usually set off by infection, another severe illness, or missed insulin. It causes nausea, vomiting, abdominal pain, rapid breathing, and dehydration, and it is a medical emergency.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Insulin resistance",
+  "definition": "The state in which muscle, liver, and fat tissue respond weakly to insulin, so the pancreas has to make more of it to keep blood sugar normal. It is the engine of type 2 diabetes and usually travels with extra weight carried around the waist. Fun fact: blood sugar can stay perfectly normal for years while insulin quietly runs high — the sugar is the last number to move.",
+  "nearest_shelves": [
+   111,
+   112
+  ]
+ },
+ {
+  "term": "Refeeding syndrome",
+  "definition": "A dangerous shift of salts — above all phosphate — into the cells when a starved or severely malnourished person is fed again too quickly. The fall comes fast: phosphate typically bottoms out around the second or third day of feeding, and when it drops below 1 mg/dL (0.32 mmol/L) the heart's rhythm and squeeze are at risk — arrhythmias are the classic fatal event. Lesser falls still weaken muscle, including the breathing muscles, and potassium and magnesium fall alongside. Fun fact: it was first widely described in starved prisoners freed after the Second World War — after starvation, feeding itself has to start slow.",
+  "nearest_shelves": [
+   99
+  ]
+ },
+ {
+  "term": "Kidney stones",
+  "definition": "Hard crystals of minerals and salts that form inside the kidney, usually when the urine is concentrated or carries too much calcium, oxalate, or uric acid. A stone that starts moving down the narrow urine tube causes some of the most severe pain in medicine. The usual mix, by main component (Mayo Clinic laboratory, 43,545 first stones): calcium oxalate about 67%, calcium phosphate about 16%, uric acid about 8%, struvite — the infection stone — about 3%, brushite about 1%, and cystine under 1%; the rest are mixed or rarer types. Fun fact: most stones are calcium-based — yet the usual prescription is more water, not less calcium, because calcium in food actually traps oxalate in the gut.",
+  "nearest_shelves": [
+   56
+  ]
+ },
+ {
+  "term": "Dehydration",
+  "definition": "Too little water in the body for it to run well: the blood becomes concentrated, the kidneys strain, and blood pressure can fall. The bedside signs march with the size of the deficit: at roughly 5% of body weight lost, the mucous membranes turn dry — mouth and conjunctiva, with fewer tears; by about 10%, skin pinched into a fold stays up (\"tenting\") instead of snapping back. In older adults the first signs are often confusion, dizziness, or a fall rather than thirst — and the pinch test itself is unreliable in aged skin, which tents anyway. Fun fact: the thirst alarm weakens with age, so \"I'm not thirsty\" does not rule it out.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Aspiration",
+  "definition": "Breathing food, liquid, saliva, or stomach contents into the lungs instead of swallowing them down the food pipe. It can inflame and infect the lung (aspiration pneumonia) and is a particular risk after a stroke or whenever swallowing is weak. Fun fact: many healthy people silently breathe in tiny amounts during sleep — a strong cough and healthy defenses usually clear it without harm.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Fever",
+  "definition": "A body temperature of 100.4 °F (38.0 °C) or higher, produced by the brain's thermostat (the hypothalamus) deliberately raising its set point, usually in response to infection. The messengers are chiefly the cytokines interleukin-1 and tumor necrosis factor: they switch ON prostaglandin E2 production in the hypothalamus, PGE2 turns the set point up, and the body climbs to the new setting over the next hour or so — shivering and feeling chilled as it goes. (Fever medicines such as aspirin bring the temperature down by blocking that PGE2 step.) Fever is not the same as overheating (hyperthermia), where the set point stays normal and the body simply cannot shed heat. Fun fact: fever is believed to be a beneficial, evolved defense — it has been conserved across vertebrates for hundreds of millions of years, makes life harder for many germs, and speeds the immune response.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Palpitations",
+  "definition": "The sensation of your own heartbeat racing, pounding, fluttering, or skipping. Most episodes come from extra beats, a brief run of fast rhythm, or simply a normal rhythm noticed in a quiet moment. Fun fact: the \"thump\" people feel is usually not the extra beat itself — that beat is often too weak to notice — but the stronger beat that follows the pause after it.",
+  "nearest_shelves": [
+   101
+  ]
+ },
+ {
+  "term": "Blood clot (thrombosis)",
+  "definition": "A plug of platelets and fibrin — the protein mesh of the blood's repair system — trapping red blood cells inside a vessel. In slow-flowing veins the clots are red-cell rich; in fast-flowing arteries they are platelet rich. Fun fact: a clot is the very same machinery that seals a cut — thrombosis is the repair system firing in the wrong place, inside a vessel that needs to stay open.",
+  "nearest_shelves": [
+   100
+  ]
+ },
+ {
+  "term": "Constipation",
+  "definition": "Bowel movements that are infrequent, hard, or difficult to pass, often with straining or a sense of incomplete emptying. Fun fact: there is no rule that you must go daily — the normal range runs from three times a day to three times a week, and straining and hardness define constipation better than the calendar does.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Scurvy",
+  "definition": "The disease of vitamin C deficiency. Without vitamin C the body cannot build collagen properly, so tissues weaken: gums swell and bleed, wounds fail to heal, and joints ache. Fun fact: old, long-healed scars can split open again in scurvy — and James Lind's 1753 shipboard comparison of cures, citrus fruit among them, is often called the first clinical trial.",
+  "nearest_shelves": [
+   197
+  ]
+ },
+ {
+  "term": "Tumor necrosis factor alpha (TNF-α), also known as cachectin",
+  "definition": "A cytokine poured out by macrophages when they meet bacterial products such as endotoxin — one of the body's master alarm signals, and a true metabolic switch. It raises the temperature set point (fever), orders the liver to stop making albumin and produce acute-phase proteins instead, and pulls fuel out of muscle and fat to feed the immune response. Switched on for days, this defends against infection; left on for weeks, as in chronic infection or cancer, it produces the wasting called cachexia. Fun fact: the molecule was discovered twice — as \"tumor necrosis factor\" (named in 1975, for melting tumors in mice) and as \"cachectin,\" the hormone of wasting — until 1985, when the two proved to be one and the same protein. Search the older name, cachectin, to trace the metabolic half of its history.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Asthma",
+  "definition": "A long-term lung condition in which the airways are inflamed and overly reactive, narrowing in response to triggers such as allergens, cold air, exercise, or infections. It causes wheezing, cough, chest tightness, and shortness of breath that come and go, and severe attacks can be life-threatening.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Seizure",
+  "definition": "A burst of abnormal electrical activity in the brain that temporarily disrupts normal function — causing convulsions, staring, confusion, or loss of awareness, depending on the area involved. Most seizures are not the fall-to-the-floor convulsing kind: only about 20–25% (about a quarter) are generalized tonic-clonic (\"grand mal\") seizures, in which the whole body stiffens and shakes and consciousness is lost. About 60% (three in five) are focal seizures, starting in one part of the brain — twitching, odd sensations, or a trance-like spell with impaired awareness, without convulsions. Absence seizures — brief staring spells, once called \"petit mal\" — are about 5% (1 in 20), mostly in children. A seizure that continues beyond about five minutes, or repeats without recovery between them, is called status epilepticus and is a medical emergency.",
+  "nearest_shelves": [
+   144
+  ]
+ },
+ {
+  "term": "Hypoxia",
+  "definition": "Too little oxygen reaching the body's tissues. It is usually tracked in the blood as oxygen saturation — normally about 95–100% — or as the partial pressure of oxygen (hypoxemia is the blood finding). Lung disease, heart failure, and breathing failure are common causes.",
+  "nearest_shelves": [
+   166
+  ]
+ },
+ {
+  "term": "Gastrointestinal bleeding",
+  "definition": "Bleeding anywhere in the digestive tract, from the esophagus to the rectum. Bleeding from the upper tract may cause vomiting of blood or black, tarry stools; bleeding from the lower tract more often causes red blood in the stool. Ulcers, inflammation, abnormal blood vessels, cancers, and blood-thinning or anti-inflammatory medicines are common causes.",
+  "nearest_shelves": [
+   137
+  ]
+ },
+ {
+  "term": "Jaundice",
+  "definition": "Yellowing of the skin and the whites of the eyes caused by a build-up of bilirubin, the pigment formed when old red blood cells are broken down. It signals that the liver is not processing bilirubin normally, that bile drainage is blocked, or that red blood cells are being destroyed too fast.",
+  "nearest_shelves": [
+   167
+  ]
+ },
+ {
+  "term": "Hemoglobin",
+  "definition": "The protein inside red blood cells that carries oxygen from the lungs to the tissues and brings carbon dioxide back. Its blood level is the main measure of anemia — typically about 13.5–17.5 g/dL in men and 12–15.5 g/dL in women, varying by laboratory.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Tachycardia and bradycardia",
+  "definition": "A resting heart rate faster than normal is tachycardia (usually above 100 beats per minute); slower than normal is bradycardia (usually below 60). Either can be a normal response — exercise, fever, sleep, athletic fitness — or a sign of a rhythm problem, especially when it causes dizziness, chest pain, or fainting.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Thrombocytopenia",
+  "definition": "A platelet count below the normal range. Platelets are the blood cells that start clotting; the normal count is roughly 150,000–400,000 per microliter (150–400 × 10⁹/L). Low counts raise the risk of bruising and bleeding; causes include immune destruction, medicines (heparin is a classic), liver disease, and bone-marrow problems.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Edema",
+  "definition": "Swelling caused by excess fluid in the body's tissues, most visibly in the legs and ankles. It has many causes — standing, pregnancy, heart failure, kidney or liver disease, low albumin, and medicines such as some blood-pressure pills — so edema is a sign to explain, not a diagnosis by itself. Fun fact (from the developer's own published case report, n of 1): when the fluid comes off, the tape measure tracks it — about 1 cm off the abdominal circumference for every pound lost, or roughly 1 inch per kilogram — so girth can stand in for the scale.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Vitamin B12",
+  "definition": "A vitamin essential for making red blood cells and for healthy nerves, found in meat, dairy, and eggs. Deficiency — from poor absorption (pernicious anemia, stomach surgery, some medicines such as metformin) or a diet without animal products and without supplements — causes anemia and can cause numbness, balance problems, and memory trouble. A very high level is not always reassuring either: besides supplements or injections, a B12 that is still high when rechecked about a month later can be an early marker of cancer or liver disease — in one study, people whose B12 stayed above 1,000 pg/mL developed cancer at about 5.9 times the rate of people with normal levels — while a single high reading that settles, as inflammation can cause, did not carry that risk.",
+  "nearest_shelves": [
+   198
+  ]
+ },
+ {
+  "term": "Heartburn (acid reflux)",
+  "definition": "A burning feeling rising from the stomach into the chest, caused by stomach acid washing back into the esophagus (the swallowing tube); when it happens regularly it is called GERD. It is usually worse after meals and on lying down. The trap: heart-attack pain can feel like heartburn, and heartburn medicine should never be used to decide whether chest pain is serious.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Diarrhea",
+  "definition": "Loose or watery stools, usually three or more in a day. Most cases are infections or food-related and settle within a few days; the main danger, especially in children and older adults, is dehydration. Blood in the stool, high fever, or severe pain points to a different problem. One cause worth knowing: antibiotics can let a germ called C. difficile take over the colon and cause severe diarrhea.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Insomnia",
+  "definition": "Trouble falling asleep, staying asleep, or waking too early, despite having the chance to sleep. It is different from sleep apnea, where repeated breathing pauses fragment the night. In older adults, sleeping pills are a common quick fix but carry real costs — falls, confusion, and next-day grogginess — so they are a last resort, not a first.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Anaphylaxis",
+  "definition": "A severe, whole-body allergic reaction that can kill within minutes: the airway swells, breathing tightens, and blood pressure falls. Common triggers are foods such as peanuts and shellfish, insect stings, and medicines. The treatment is an injection of epinephrine (adrenaline), given immediately — antihistamines are too slow and are not a substitute.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Gallstones",
+  "definition": "Stones that form in the gallbladder, most of them made of cholesterol. Most never cause any symptom at all. When one blocks the gallbladder's outlet it causes attacks of pain in the right upper abdomen, often after fatty meals; a stone that escapes can also block the pancreas duct (see Pancreatitis) or the bile duct (see Jaundice). The lasting fix for troublesome stones is removing the gallbladder.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Dyspnea (shortness of breath)",
+  "definition": "The feeling of not getting enough air. It is a symptom, not a diagnosis — the main causes are heart failure, lung diseases such as COPD and pneumonia, a blood clot in the lung, anemia, and anxiety. Shortness of breath can also be a sign of angina — the heart not getting enough blood — sometimes the only sign, with no chest pain at all. Breathlessness and low oxygen are different things: a person can feel very breathless with a normal oxygen level, and dangerously low oxygen sometimes causes little breathlessness at all — which is why both the feeling and the measurement matter.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Pancreatitis",
+  "definition": "Inflammation of the pancreas, usually causing severe upper-abdominal pain that often bores through to the back, with nausea and vomiting. The two commonest causes are gallstones and alcohol; very high triglycerides are a third. Most attacks settle with fluids and rest, but severe attacks can destroy pancreatic tissue and become life-threatening. Fun fact: The pancreas makes enzymes strong enough to digest food — in severe pancreatitis they switch on inside the gland itself, and it begins, in effect, to digest itself.",
+  "nearest_shelves": [
+   98
+  ]
+ },
+ {
+  "term": "Diverticulitis",
+  "definition": "Inflammation of a diverticulum — a small pouch in the wall of the colon. It causes pain, usually in the left lower abdomen, often with fever. Most uncomplicated attacks were long treated with antibiotics for every patient; two randomized trials found that selected patients do just as well without them.",
+  "nearest_shelves": [
+   178
+  ]
+ },
+ {
+  "term": "Vertigo",
+  "definition": "The illusion that you or the room is spinning. The commonest cause is BPPV — loose crystals in the inner ear — which triggers brief spins, under a minute, when the head moves in certain ways, and is treated with repositioning maneuvers rather than medicine. Vertigo that is constant, or comes with slurred speech, weakness, or double vision, can be a stroke and is an emergency. People often say \"dizzy\" for lightheadedness too, which is a different problem — see Syncope.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Metabolic syndrome",
+  "definition": "A cluster of findings that travel together and carry a very high cardiovascular risk, along with a raised risk of type 2 diabetes: a large waist, high triglycerides, low HDL cholesterol, raised blood pressure, and raised blood sugar. The usual rule is any three of the five. It is not a separate disease so much as a warning pattern — the same cluster that insulin resistance produces.",
+  "nearest_shelves": [
+   111,
+   112
+  ]
+ },
+ {
+  "term": "Nausea",
+  "definition": "The feeling of being about to vomit. It is a symptom with many causes — stomach and gut infections, motion, migraine, pregnancy, medicines (chemotherapy and opioids are common ones), and problems deeper in, from a blocked bowel to raised pressure inside the skull. Nausea that keeps happening, or comes with vomiting blood, severe pain, or weight loss, needs a diagnosis, not just a pill for the feeling.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Cough",
+  "definition": "A reflex that clears the airways — one of the body's basic defenses, and one of the commonest reasons people see a doctor. Most coughs come from colds and settle in two to three weeks. A cough lasting more than eight weeks in an adult is called chronic and deserves a search: the commonest causes are postnasal drip, asthma, and acid reflux — and in smokers, COPD and lung cancer enter the list. Coughing blood is never normal and is always a reason to be seen promptly.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Wheezing",
+  "definition": "A musical, whistling sound made by air moving through narrowed airways — and which part of the breath it rides on tells you where the narrowing is. A musical sound on breathing out (a rhonchus) points to the airways in the chest: asthma is the classic cause, and COPD, heart failure (sometimes called cardiac asthma), and an allergic reaction can all do it too. A harsh, raucous sound on breathing in (stridor) points higher — the throat and windpipe — and is more often an emergency. In a small child, a first episode with a chest infection is usually a virus or bronchiolitis. One warning sign matters: in a bad asthma attack, a chest that goes quieter is getting worse, not better — less air is moving.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hiccups",
+  "definition": "Involuntary spasms of the diaphragm — the main breathing muscle — each followed by the vocal cords snapping shut, which makes the \"hic\" sound. Attacks lasting minutes are usually triggered by a full stomach, fizzy drinks, alcohol, or excitement, and stop on their own. Hiccups lasting more than 48 hours, or ones that keep coming back, are a different matter: they can signal irritation of the vagus or phrenic nerves, reflux, or a problem in the brain, and they deserve a workup rather than home remedies.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Tinnitus",
+  "definition": "Hearing a sound — ringing, buzzing, hissing — that is not there. It usually travels with hearing loss, most often from age or noise damage. Tinnitus that pulses in time with the heartbeat is different and can point to a blood-vessel problem, and tinnitus in one ear only should be checked. No pill is proven to cure it; the mainstays are treating any hearing loss, sound therapy, and retraining attention so the sound fades into the background even when it does not disappear.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Headache",
+  "definition": "A pain in the head — one of the commonest symptoms there is. Most headaches are tension-type or migraine and are not dangerous. A short list is different and means get seen now: a sudden \"thunderclap\" headache that peaks within a minute; the worst headache of your life; headache with fever and a stiff neck; headache after a head injury; a new headache after age 50; or headache with weakness, confusion, or vision change. Headaches that are new, changing, or waking you from sleep also deserve a workup rather than another painkiller.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Fatigue",
+  "definition": "Tiredness that rest doesn't fix. It is different from sleepiness — the urge to fall asleep — though the two often travel together and are worth telling apart, because they point in different directions. Fatigue is a symptom, not a diagnosis: common causes include anemia, an underactive thyroid, depression, heart failure, and sleep apnea — which causes sleepiness first and fatigue second. Fatigue that persists for weeks, or comes with weight loss, fever, or breathlessness, deserves a search for its cause.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hoarseness",
+  "definition": "A rough, strained, or weak voice, caused by something affecting the vocal cords in the larynx (voice box). The usual causes are laryngitis from a cold, acid reflux reaching the throat, and voice overuse. Hoarseness lasting more than three weeks needs the cords looked at directly — especially in smokers — because a growth on the cord, including cancer, is on the list and is most curable when caught early.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Itching (pruritus)",
+  "definition": "The urge to scratch. When there is a rash, the cause is usually in the skin itself — eczema, dry skin, allergy, hives, or infection. Itching all over with no rash is a different clue: it can come from the liver (bile backing up), failing kidneys, an over- or underactive thyroid, low iron, or, uncommonly, a lymphoma. Whole-body itching that doesn't settle deserves blood tests, not just a stronger cream.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Snoring",
+  "definition": "The noise made when the relaxed tissues of the throat vibrate during sleep. It is very common and often harmless in itself. It becomes a medical matter when it travels with witnessed pauses in breathing, choking or gasping arousals, or daytime sleepiness — the signature of sleep apnea, which is hard on the heart. A bed partner's report of pauses is worth more than the snore's volume: loud is common, pauses are the warning.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Dizziness",
+  "definition": "An unsteady, lightheaded, or faint feeling — one word patients use for several different sensations, and telling them apart is most of the diagnosis. Spinning, where the room seems to move, is vertigo — an inner-ear problem. Feeling about to faint, especially on standing, points to blood pressure drops, dehydration, blood loss, or a heart rhythm problem. A vague unsteadiness in an older person usually has several small causes at once — medicines, vision, nerves, balance. New dizziness with weakness, slurred speech, or double vision is a stroke until proven otherwise.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Rash",
+  "definition": "Any change in the skin's look or feel — redness, bumps, blisters, scaling. Most rashes are local problems: eczema, allergy, infection, or irritation. A rash turns urgent with blistering or skin pain (the skin itself is failing), with fever plus a rash that does not fade under pressure (possible meningitis or sepsis), or with swelling of the lips and tongue (an allergic reaction turning dangerous). A new rash after a new medicine is a drug reaction until proven otherwise — the medicine list is the first place to look.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Back pain",
+  "definition": "Pain in the back, most often the low back — one of the commonest reasons for a doctor visit and for missed work. The great majority is mechanical (muscle, joint, disc) and improves within weeks without any scan; early imaging mostly finds age-normal wear that was not the cause. The red flags that change everything: leg weakness or numbness in the saddle area, loss of bladder or bowel control (a surgical emergency), fever, a history of cancer, major trauma, or pain worst at night and unrelieved by rest.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Joint pain",
+  "definition": "Pain in one joint or many — and the count matters. One hot, swollen joint is an emergency until proven otherwise: it can be infection, which can destroy the joint in days, gout, or bleeding into the joint. Many painful joints with morning stiffness that comes back the same every day and lasts over an hour — especially in the hands, which patients say feel \"like they're in wax\" until it loosens — points to inflammation, rheumatoid arthritis and its relatives, where early treatment prevents permanent damage. The commonest cause overall is osteoarthritis, wear-and-tear: brief morning stiffness, aching with use, easing with rest.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Numbness",
+  "definition": "Loss of feeling, or the abnormal tingling called pins and needles. Where it sits tells the story: one hand's fingers suggest a pinched nerve at the wrist (carpal tunnel); both feet, symmetrically, suggest a nerve problem from diabetes, alcohol, or low vitamin B12; one patch on a leg follows a single nerve root from the spine. Sudden numbness on one side of the face or body is a stroke until proven otherwise. Numbness that climbs, or comes with weakness, needs same-day care.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bruising",
+  "definition": "A bruise is blood leaked from tiny vessels under unbroken skin, usually after a knock — it changes color as the blood is cleaned up, from red-purple through green-yellow, over about two weeks. Easy bruising has everyday causes: aging skin and the sun damage that thins it, steroids, and blood thinners, aspirin, and some supplements. Bruising earns a workup when it appears without injury, is unusually large or painful, comes in crops, or travels with bleeding gums, nosebleeds, or blood in the urine or stool — that pattern points at the platelets or the clotting system itself.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Weakness",
+  "definition": "True weakness means loss of muscle strength — trouble rising from a chair, lifting an arm, keeping a grip — and it is different from fatigue or feeling unwell, a distinction that steers the whole workup. Pattern tells the story: sudden weakness on one side of the body is a stroke until proven otherwise; weakness that climbs from the feet over days (Guillain-Barré) is an emergency; weakness that worsens with use and eases with rest points to the nerve–muscle junction, as in myasthenia. Many medicines can make muscles ache without truly weakening them — aching and weakness are not the same complaint.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Tremor",
+  "definition": "An involuntary, rhythmic shaking, most often of the hands. The commonest cause is essential tremor: present with action — holding a cup, writing — often running in families, sometimes quieted by a little alcohol; benign, though it can disable. Parkinson's tremor is the opposite pattern: worst at rest, easing with action, usually starting on one side, with slowness and stiffness for company. A new or changing tremor can also come from an overactive thyroid, caffeine, low blood sugar, or medicines — lithium and some asthma and antidepressant drugs among them.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hair loss",
+  "definition": "Losing hair beyond the normal shed of roughly 50–100 hairs a day. Pattern tells the kind: gradual thinning at the temples and crown in men, and over the crown in women, is the hormone-and-heredity kind — by far the commonest. Round, smooth bald patches are alopecia areata, an immune attack on the follicle. A heavy shed two to three months after a fever, serious illness, surgery, or childbirth is telogen effluvium — the follicles were shocked into resting together — and it usually regrows on its own. Hair loss with scaling, pain, or scarring needs a dermatologist, because the scarring kinds destroy follicles permanently.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Dry mouth",
+  "definition": "Too little saliva. The commonest cause by far is medicines — hundreds list it, from antidepressants and blood-pressure drugs to antihistamines and bladder medicines — followed by mouth-breathing, radiation to the head and neck, and Sjögren's, an immune disease that dries the eyes too. It is not a small thing: saliva protects the teeth, so a dry mouth rots teeth fast, and it blunts taste and makes swallowing dry food hard. Treatment aims at the cause, plus saliva substitutes, sugar-free gum, and aggressive dental care.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Sweating",
+  "definition": "Sweat is the body's cooling system — glands release water onto the skin, and its evaporation carries heat away. Too much sweat (hyperhidrosis) usually runs in families and sticks to the palms, soles, and armpits. Sweating everywhere, or drenching night sweats that soak the sheets, is a different signal: a fever breaking, menopause, an overactive thyroid — or, on the serious list, tuberculosis and lymphoma. A cold, clammy sweat with chest pressure or breathlessness is a heart-attack warning until proven otherwise.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Blurred vision",
+  "definition": "Vision that loses its sharpness. Gradual blurring in both eyes is usually focus — glasses, cataracts, or, in diabetes, sugar swelling the lens (that kind can swing day to day with the glucose). Sudden blurring is different: in one eye it can be a blocked retinal vessel or a detaching retina (watch for flashes, a shower of floaters, or a curtain over the view); in both eyes, or with weakness or speech trouble, it can be a stroke. Any sudden vision loss is an emergency — retina and brain both worsen by the clock.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Chest pain",
+  "definition": "Pain or pressure in the chest — the symptom nobody should grade at home. Heart pain (angina) is typically a heavy pressure or squeezing across the center, brought on by effort or emotion, easing with rest, sometimes spreading to the arm, jaw, or back; a heart attack's pain lasts, and often brings sweating, nausea, or breathlessness. But the chest holds more than the heart: reflux burns, chest-wall muscle aches sharply with movement, pleurisy stabs with each breath, and a torn aorta — rare and catastrophic — rips through to the back. Because the worst cause is common and time-critical, new chest pressure means an emergency call, not a wait-and-see.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Memory loss",
+  "definition": "Trouble remembering — names, dates, where things are. Some is normal aging: slower recall, the word on the tip of the tongue — while judgment and daily function stay intact. Memory loss that erodes daily life — repeating questions, getting lost in known places, bills going unpaid — is not normal aging; the mild stage is called mild cognitive impairment, and the advanced stage is dementia, most often Alzheimer's disease. Sudden confusion over hours to days is a different emergency — delirium, usually from infection, dehydration, or medicines. Reversible causes are always worth hunting: low vitamin B12, thyroid trouble, depression, poor sleep, and the medicine list.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Confusion",
+  "definition": "A clouded, muddled mind — trouble thinking clearly, paying attention, or knowing where you are. When it comes on suddenly, over hours or days, and waxes and wanes, it is delirium: the brain's alarm bell, almost always with a physical cause — infection, dehydration, low or high blood sugar, medicines (new ones first), alcohol withdrawal, or a stroke. Delirium is an emergency, especially in older people, in whom it may be the only sign of a serious illness. Confusion that creeps in over months to years is a different road — the dementia workup.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Vomiting",
+  "definition": "Throwing up — the forceful emptying of the stomach. It partners with nausea but is its own event, driven from a vomiting center in the brain that takes reports from the gut, the inner ear, the blood (toxins, medicines, hormones), and the brain itself. Most episodes are stomach infections or food poisoning and pass in a day or two. The red flags: blood or coffee-ground material; vomiting with a severe headache or stiff neck; signs of dehydration — dry mouth, little urine, dizziness on standing; nothing kept down for more than a day; and, in a young infant, vomiting that shoots out forcefully.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Heartburn",
+  "definition": "A burning feeling rising behind the breastbone, from stomach acid washing up into the esophagus — which, unlike the stomach, has no armor against acid. Occasional heartburn after a big, late, fatty meal is nearly universal. Heartburn twice a week or more is GERD, and years of it can scar the esophagus narrow or change its lining (Barrett's esophagus), a step toward cancer. Alarm features mean a scope, not another antacid: trouble swallowing, food sticking, weight loss, vomiting, or black stools. And the standing trap: heartburn and heart pain overlap — pressure with exertion, sweating, or breathlessness is the heart until proven otherwise.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bloating",
+  "definition": "A feeling of fullness, tightness, or visible swelling of the belly — usually gas: swallowed air, gas-producing foods, a bowel that moves slowly, or a gut that senses stretch too keenly, as in irritable bowel syndrome. Most bloating is uncomfortable, not dangerous. It earns a workup when it is new and persistent in an older person, or comes with weight loss, vomiting, or blood in the stool — and a belly that keeps steadily growing may be fluid (ascites) or a mass, not gas at all.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hearing loss",
+  "definition": "Reduced hearing, in one ear or both. It comes in two mechanical kinds: conductive — sound is blocked on its way in, by wax, fluid behind the eardrum, or stiffened middle-ear bones — and sensorineural — the inner ear or its nerve is damaged, by age, noise, or certain medicines. Sudden hearing loss in one ear over hours to days is an emergency: treated with steroids within days, some people recover; waited on, most do not. Gradual loss in both ears is usually aging, and hearing aids help more the earlier they are fitted — untreated loss isolates people and tracks with faster cognitive decline.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Loss of appetite",
+  "definition": "Eating less because food has lost its appeal. Doctors call it anorexia — which in this medical sense means loss of appetite, not the eating disorder anorexia nervosa. It rides along with almost any illness: infection, cancer, heart or kidney failure, depression, dental trouble, and many medicines. In an older person, a fading appetite is often the first and only sign that something is wrong. New appetite loss with weight loss over weeks always deserves a search — teeth and swallowing, mood, medicines, and malignancy are all on the list.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Sleepiness",
+  "definition": "The urge to fall asleep during the day, in situations where you should be awake. It is different from fatigue — tiredness that rest doesn't fix — and telling the two apart matters, because they point in different directions. The usual causes are simply too little sleep, sleep apnea (breathing that stops and restarts all night), sedating medicines, an underactive thyroid, and depression. Falling asleep at the wheel, or mid-conversation, is a safety problem to fix, not a character flaw.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Blood in urine",
+  "definition": "Blood in the urine, either visible — pink, red, or cola-colored — or found only on a lab test. Common causes are a urinary infection, kidney stones, an enlarged prostate, and, temporarily, hard exercise. The cause that must never be missed is cancer of the bladder, kidney, or prostate, which is why any episode of visible blood earns a workup even if it happens once and stops — painless visible blood, oddly, is the more worrying kind.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Blood in stool",
+  "definition": "Blood passed with or in the stool. Bright red blood usually comes from low in the bowel — hemorrhoids and small tears are the commonest causes, then diverticulitis, inflammation, and polyps. Black, tarry stool is blood that has been digested on its way down from the stomach or upper bowel, and it is the more urgent sign. In an older person, new blood in the stool should never simply be blamed on hemorrhoids without checking — and blood thinners raise the stakes of any of it.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Abdominal pain",
+  "definition": "Pain anywhere in the belly, between the ribs and the pelvis. Where it sits, when it comes, and what it feels like are most of the diagnosis: common causes run from gas and constipation to appendicitis (low right side), gallstones (upper right, after meals), a blocked bowel, and, in women who could be pregnant, a pregnancy growing outside the womb. A rigid, board-like belly, pain with fever or repeated vomiting, vomiting or passing blood, or sudden severe pain unlike anything before it — those are emergencies, not wait-and-see.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Frequent urination",
+  "definition": "Needing to pass urine more often than is usual for you, by day or by night (waking to urinate is called nocturia). The classic cause to check first is high blood sugar — the kidney spills the extra sugar and water follows it. Others: a urinary infection, an enlarged prostate, an overactive bladder, caffeine, and water pills (diuretics) doing their job. New frequency together with unusual thirst and weight loss means check the glucose.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Urinary incontinence",
+  "definition": "Leaking urine that you cannot control. The main types: stress leakage, when a cough, laugh, or lift squeezes it out; urge leakage, when the need comes so suddenly there is no time; and overflow, when the bladder never quite empties. Causes include a weakened pelvic floor, an enlarged prostate, nerve problems from diabetes or stroke, and some medicines. It is common and usually treatable — it is not an inevitable part of growing older, and it is always worth mentioning out loud.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Leg cramps",
+  "definition": "A muscle — most often the calf — suddenly tightening into a hard, painful knot, classically at night in bed (nocturnal leg cramps). Most in older adults have no single cause found. The suspects worth checking: dehydration, low potassium or magnesium, medicines including water pills, and pregnancy. Statins do not belong on this list: they do not cause cramps — the muscle complaint statins cause is achiness, usually on both sides. The immediate fix is mechanical — stretch the muscle the opposite way (pull the toes up for a calf cramp). A cramp that comes with a swollen, warm leg is a different problem — possible blood clot — and needs same-day care.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Falls",
+  "definition": "Coming to rest on the floor or ground without meaning to. In an older person a fall rarely has one cause: usually several small ones at once — blood-pressure or sedative medicines, blood pressure that drops on standing, weak muscles, poor vision or balance, and hazards at home. A fall is a symptom worth investigating, not just bad luck: the review starts with the medicine list. One fall that breaks a hip can cost a person their independence, which is why the cause hunt matters more than the bruise.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Excessive thirst",
+  "definition": "Wanting to drink far more than usual, and still feeling thirsty (the medical word is polydipsia). Its classic partner is frequent urination, and together they are the textbook first sign of diabetes: high blood sugar pulls water out through the kidney, and thirst is the body asking for it back. Other causes: dehydration from any source, high blood calcium, certain medicines that dry the mouth, and, rarely, a hormone problem (diabetes insipidus) where the kidney cannot hold water at all. New thirst with frequent urination and weight loss: check the glucose first.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Sore throat",
+  "definition": "Pain, scratchiness, or rawness in the throat. Most sore throats are viruses — the common cold above all — and heal on their own in a few days. The bacterial one that matters is strep throat, because treating it prevents rheumatic fever, a heart complication that mainly threatens children. Acid reflux, allergies, and dry air make throats sore without any infection. The red flags: drooling or being unable to swallow, a muffled \"hot potato\" voice, swelling on one side only, or any trouble breathing — same-day care.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Night sweats",
+  "definition": "Sweating at night heavy enough to soak your nightclothes or the sheets and wake you — not just feeling warm under the covers. Common causes are menopause (hot flashes happening at night), infections — tuberculosis and HIV are the classic ones — some cancers, lymphoma above all, and fever medicines wearing off. Drenching night sweats that keep happening, especially with weight loss or fever, deserve a search, not just a fan.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hot flashes",
+  "definition": "A sudden wave of heat spreading over the face, neck, and chest, with flushing and sweating, lasting a minute or a few and then passing. They are the signature symptom of menopause, arriving as estrogen falls, and the same thing happens with hormone-blocking treatments for breast and prostate cancer. Other causes: an overactive thyroid and some medicines. At night, hot flashes are what night sweats are made of, and broken sleep is often the worst of it. Frequent or severe flashes are treatable — and new hot flashes in a man who is not on hormone treatment deserve a look for a cause.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Swollen lymph nodes",
+  "definition": "Lymph nodes — the \"glands\" in the neck, armpits, and groin — are filters packed with immune cells. When one swells, it is usually doing its job, fighting an infection nearby: a sore throat swells the neck nodes. Most shrink back within two to four weeks. Pain is a useful first guide: a tender, painful node is usually infection or inflammation — the node is busy fighting. A painless node that stays swollen is the more worrying kind, because painless enlargement may be cancer — lymphoma, or cancer that has spread. The pattern that always earns a workup: a node that keeps growing, feels hard and stuck in place, sits above the collarbone, or is still swollen after a month — especially with fever, night sweats, or weight loss. That node needs an examination, and sometimes a biopsy.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Ear pain",
+  "definition": "Pain in or around the ear (doctors call it otalgia). In children it is usually a middle-ear infection behind a cold; in adults the commonest causes are earwax, an outer-ear infection (swimmer's ear), jaw-joint strain, and referred pain — the ear shares its nerves with the teeth, jaw, and throat, so trouble there can report to the ear. Get seen promptly for: swelling or tenderness behind the ear, ear pain with hearing loss or dizziness, bloody discharge, or — in an adult — one-sided ear pain that persists while the ear itself looks normal, because the throat then needs the look.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Runny or stuffy nose",
+  "definition": "A nose that drips, blocks, or does both (rhinitis). Usually it is the common cold — viral, a few days, done — or allergies, which add sneezing and itchy, watery eyes and follow the seasons or a dusty room. A sinus infection joins the list when there is face pain or pressure with thick discharge lasting beyond ten days, or symptoms that were improving and then worsen. One-sided blockage or bleeding that persists in an adult is not allergies and needs a look inside. And decongestant sprays used daily for more than a few days can cause the stuffiness themselves — rebound congestion.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Nosebleed",
+  "definition": "Bleeding from the nose (epistaxis), usually from the fragile little vessels at the front of the septum. Dry air, hard nose-blowing, colds, blood thinners, and high blood pressure all make it likelier. First aid that actually works: sit up, lean forward, and pinch the soft part of the nose shut for a full ten to fifteen minutes without peeking. It is an emergency if the bleeding won't stop after twenty to thirty minutes of proper pressure, if blood is running steadily down the throat, or if it follows a head injury — and repeated one-sided nosebleeds in an adult need a look inside the nose.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Coughing up blood",
+  "definition": "Blood coughed up from the airways or lungs (hemoptysis) — anything from pink-flecked mucus to frank red blood. It is not the same as vomiting blood, which comes from the stomach and often looks like coffee grounds. The commonest cause is bronchitis, in small amounts; the ones that must be found are pneumonia, tuberculosis, a blood clot to the lung (pulmonary embolism), and lung cancer. Any coughing up of blood deserves prompt evaluation — and more than a few teaspoons of it, or any with breathlessness or chest pain, is an emergency.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Vomiting blood",
+  "definition": "Vomiting blood (hematemesis) — bright red, or dark and grainy like coffee grounds, which is blood partly digested by stomach acid. The sources: stomach and duodenal ulcers, a stomach lining inflamed by alcohol or pain relievers (NSAIDs), a small tear from hard retching, and — in liver disease — swollen veins in the gullet (varices) that can bleed massively. Vomiting blood is always an emergency, full stop; faster still if there is dizziness, faintness, or black stools.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Vision loss",
+  "definition": "Losing sight in one or both eyes, partly or completely, suddenly or over time. The gradual, painless causes are cataracts, macular degeneration, glaucoma, and diabetes damage. Sudden painless loss in one eye is an emergency: a blocked retinal artery is a stroke of the eye, and a shadow or curtain coming down suggests the retina has detached. Sudden vision trouble in an older person with a new headache or jaw pain when chewing points to giant cell arteritis — same-day treatment protects the other eye. And vision change that arrives with weakness or speech trouble is a stroke until proven otherwise.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Loss of smell and taste",
+  "definition": "Smell and taste fading or vanishing together — they travel as a pair because most of what we call flavor is actually smell. The usual causes are a cold, flu, or COVID stunning or blocking the nose, and most people recover in weeks. Also on the list: nasal polyps and sinus disease, a head injury, some medicines — and, years ahead of other signs, loss of smell can be an early symptom of Parkinson's or Alzheimer's disease. Loss that persists after an infection clears, or that comes with one-sided blockage or nosebleeds, needs an ear-nose-throat look. The practical hazard is what you can no longer detect: smoke, gas leaks, and spoiled food — check the detectors.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Belching",
+  "definition": "Burping: air from the stomach let out through the mouth. Nearly all of it is swallowed air — eating fast, talking while eating, fizzy drinks, chewing gum — and a CPAP machine can push air into the stomach overnight the same way. Acid reflux is the other common driver. Belching alone is almost never serious; it earns a workup when it arrives with weight loss, repeated vomiting, trouble swallowing, or black stools.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Passing gas",
+  "definition": "Gas passed from below (flatulence) is a normal product of a working gut — everyone passes it many times a day. It comes from two sources: swallowed air, and gut bacteria fermenting what you couldn't digest — fiber, beans, milk sugar (lactose), and the sugar alcohols in \"sugar-free\" sweets. Some medicines add to it; metformin is a well-known one. Gas becomes a symptom worth chasing when it comes with blood in the stool, weight loss, persistent diarrhea, or severe pain — or when a sudden change in it is really a change in the bowel habit.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bedsores (pressure ulcers)",
+  "definition": "Damage to skin and the tissue under it, over a bony point — heels, tailbone, hips — caused by lying or sitting in one position too long: the pressure squeezes the blood out, and the tissue starves. They start as redness that doesn't fade when pressed and can deepen, in the worst cases, to muscle and bone, where infection follows. The risk rises with immobility, diabetes, poor circulation, and poor nutrition. Prevention beats every treatment: repositioning on a schedule, cushions that spread the load, and daily skin checks. An open sore in someone who is mostly in bed or a chair needs care early, while it is still shallow.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Chills",
+  "definition": "Feeling cold and shivering — the muscles shaking to manufacture heat — as the brain's thermostat turns the set point up at the start of a fever. A hard rigor, with teeth chattering and the whole body shaking, is the classic herald of bacteria loose in the bloodstream; kidney infections and malaria shake the same way. Shaking chills with a fever mean infection until proven otherwise. And in an older or frail person, chills alone — no measured fever — can be the fever equivalent, and deserve the same respect.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Painful urination",
+  "definition": "Burning or stinging when you pass urine (dysuria). The commonest cause is a urinary infection, usually with needing to go often and urgently. The rest of the list: sexually transmitted infections (especially in younger people, and often with discharge), bladder or kidney stones, an inflamed prostate, irritation or dryness of the vagina after menopause, and some medicines. Pain with fever and back pain means the infection may have reached the kidney — prompt care. And painful urination that keeps coming back in a man always earns a prostate and bladder workup.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Restless legs",
+  "definition": "An urge to move the legs that is hard to resist, worse when sitting or lying still, worst in the evening, and relieved — while it lasts — by moving. It wrecks the start of sleep. The first thing to check is iron: low iron stores (a low ferritin) cause it even without anemia. Also on the list: kidney failure, pregnancy, caffeine, and some antidepressants and antihistamines. Treatment starts with the iron and the triggers — not with sedatives.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Weight gain",
+  "definition": "Putting on weight over time. The speed tells the story: gain over days is almost always water, not fat — a failing heart, kidneys, or liver holding fluid — while gain over months is tissue. The usual drivers of the slow kind are eating more than you burn, too little movement, an underactive thyroid, and a long list of medicines: steroids, insulin, some diabetes and psychiatric drugs. Fast gain with new breathlessness or swelling is a same-week problem, not a diet problem.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Neck pain",
+  "definition": "Pain in the neck — usually strained muscles and worn joints: sleeping in a bad position, hours at a screen, arthritis of the neck bones. Most neck pain settles in days to a few weeks, and gentle movement helps it more than rest does. The red flags: neck pain after an injury; neck pain with fever and a stiff neck that will not bend (meningitis); and neck pain with weakness or numbness running into the arms, clumsy hands, or unsteady walking — pressure on the spinal cord, which is urgent.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Double vision",
+  "definition": "Seeing two of one thing (diplopia). One test sorts it: cover one eye. If the doubling is still there with one eye open, the problem is in that eye itself — lens or cornea. If it vanishes whichever eye you cover, the two eyes are no longer pointing together — a problem of the nerves, muscles, or brain that aim them: a diabetes nerve palsy, myasthenia gravis, a stroke, or an aneurysm pressing on a nerve. New double vision of the two-eye kind is an urgent evaluation; with a severe headache or a changed pupil, it is an emergency.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bad breath",
+  "definition": "Breath that smells bad (halitosis). Nine times out of ten the source is the mouth itself: bacteria coating the tongue and teeth, gum disease, a dry mouth, tonsil stones. Garlic and onions pass through in a day. The medical causes beyond the mouth: sinus infection, reflux, the sweet fruity breath of diabetic ketoacidosis, and the particular smells of kidney and liver failure. Bad breath that survives good dental care goes to the dentist first — mints cover a smell; they do not fix the gum disease making it.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Red eye",
+  "definition": "An eye that looks red. There are two common kinds. The first is pink eye (conjunctivitis): the whole surface looks pink and feels irritated — itchy or gritty, often with discharge — from a virus, bacteria, or allergies. The second kind is a burst surface blood vessel (a subconjunctival hemorrhage): a bright red patch of blood sitting on the white of the eye, often after a hard cough, a sneeze, straining, or vomiting. It looks alarming, but it does not hurt, does not affect vision, and clears on its own in a week or two, like a bruise. The dangerous kind is different: a single eye that is red and painful, with blurred vision, sensitivity to light, or a pupil that looks wrong — that can be inflammation inside the eye or acute glaucoma, and it needs same-day care. Eye drops that merely \"get the red out\" hide the cause, not the problem.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Migraine",
+  "definition": "A headache that is more than a headache: throbbing, usually on one side, with nausea, sensitivity to light and sound, and the wish to lie still in a dark room — attacks lasting hours to days. Some people get an aura first: flashing lights, zigzags, a blind spot, or tingling in the face or hand, for up to an hour. It is a disorder of brain signaling, not \"just stress,\" and it has specific treatments — plain painkillers late in an attack often fail. New migraine-like headaches after age 50, or a first \"worst ever\" headache with a stiff neck, fever, weakness, or vision change, are not migraine until a cause is ruled out.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Enlarged prostate (BPH)",
+  "definition": "The prostate gland — walnut-sized, wrapped around the urethra below the bladder — grows with age in most men, and when it does it squeezes the outflow: a weak stream, starting and stopping, feeling that the bladder never empties, frequent urination, and getting up at night. It is not cancer — benign enlargement (BPH) and prostate cancer are different conditions that can share symptoms, which is why new urinary trouble in an older man earns an examination rather than an assumption. It is manageable — medicines that relax or shrink it, and procedures when they fail.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Breast lump",
+  "definition": "A swelling or firm spot in the breast that feels different from the tissue around it. Most breast lumps are not cancer — cysts, fibroadenomas (common in younger women), and areas of thickened glandular tissue are the usual explanations — and many change with the menstrual cycle. Pain is a useful guide here too: a painful lump is usually a cyst or an infection, and less likely to be cancer. The dangerous kind is the opposite — a lump that is painless and hard, as firm as your nose or firmer, and fixed in place rather than movable. A painless, hard lump should be seen by your doctor promptly, not watched. Also concerning: skin dimpling, pulling in of the nipple, bloody discharge from one nipple. Any new lump that persists past one cycle needs imaging — a mammogram and, often, an ultrasound — not watchful reassurance alone.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bleeding after menopause",
+  "definition": "Any vaginal bleeding that starts a year or more after the last period. It is never \"just a late period\" — after menopause, bleeding means something is bleeding: thinning and dryness of the vaginal lining (atrophy) is the commonest cause, and polyps and fibroids are on the list, but the reason every case gets checked is cancer of the lining of the womb (endometrial cancer), which most often announces itself exactly this way — and which is usually caught early because of it. The workup is an examination and an ultrasound, and often a biopsy of the lining.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Testicle pain",
+  "definition": "Pain in one or both testicles. The emergency is torsion: a testicle twists on its cord, cutting off its blood, and it arrives as sudden, severe pain — often in a teenager or young man, sometimes after sleep or sport — with swelling and the testicle sitting higher than usual. That is a race against the clock: the testicle is saved only if untwisted within hours. The slower causes: infection of the epididymis (often a urinary infection or, in younger men, a sexually transmitted one), a varicocele (swollen veins), trauma, and kidney stone pain that reports to the groin. Sudden severe testicle pain is an emergency — do not wait to see if it passes.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Erectile dysfunction",
+  "definition": "Difficulty getting or keeping an erection firm enough for sex. It is a medical symptom before it is anything else: the usual causes are vascular disease (the same clogging of arteries that feeds heart attacks), diabetes, nerve damage, low testosterone, depression, and medicines — blood pressure drugs and antidepressants among them. That is why new erectile trouble in a middle-aged man is worth a heart-risk workup, not embarrassment: it can precede a heart attack by years. It is also treatable — medicines, vacuum devices, and, when needed, referral — and the first step is often just saying it out loud.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Change in bowel habits",
+  "definition": "A change in how the bowels behave that sticks: new constipation, new diarrhea, narrower stools, or a change in frequency that lasts weeks. Diet, travel, and medicines (opioids, iron, some diabetes drugs) explain most short changes. The ones that earn a colonoscopy: a change that persists beyond a few weeks, blood in the stool, unintentional weight loss, or the change arriving with anemia — because bowel cancer often announces itself exactly this way, quietly, through a change in habit. In anyone over 45, new persistent change is a colonoscopy question, not a fiber question.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Sciatica",
+  "definition": "Pain that travels down the leg along the sciatic nerve — from the buttock, down the back of the thigh, sometimes to the foot — usually from a slipped disc pressing on a nerve root in the lower back. The pattern that marks it: pain that is worse than the back pain itself, shoots or burns in a band, and worsens with coughing or straining. Most sciatica settles over weeks with movement and time. The emergency version: weakness in the foot, numbness around the genitals or bottom (\"saddle\" numbness), or losing control of bladder or bowels — cauda equina syndrome, which needs an operation the same day.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Shingles",
+  "definition": "A painful, blistering rash in a band on one side of the body, caused by the chickenpox virus waking up after years asleep in a nerve. It starts with burning or tingling pain before the blisters appear, follows one nerve's territory, and doesn't cross the midline — that band is the giveaway. It is most common after 50 and when the immune system is weak. Antivirals help only if started within three days, which is why an early look matters; the pain can outlast the rash for months (postherpetic neuralgia), especially in older people. A vaccine exists and is recommended for adults 50 and over.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hemorrhoids",
+  "definition": "Swollen veins in and around the anus and lower rectum — piles, in the older word. They come in two kinds: internal, which usually announce themselves as painless bright red bleeding on the paper or in the bowl, and external, which itch, ache, and can clot into a sudden, very tender lump. Straining, sitting long on the toilet, pregnancy, and chronic constipation feed them. Most settle with fiber, fluids, and not straining. The one rule that matters: bleeding blamed on hemorrhoids in an older person still needs the bowel checked — the hemorrhoids may be real and innocent, and something upstream may not be.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Irritable bowel syndrome (IBS)",
+  "definition": "A long-running pattern of belly pain tied to the bowels — pain that eases after a bowel movement, with diarrhea, constipation, or swings between the two, plus bloating — in a gut that looks normal on every test. It is a disorder of gut-brain communication: the bowel senses stretch too keenly and moves too fast or too slow. It does not cause bleeding, weight loss, or anemia — those findings mean look for something else. Diet (the fermentable carbohydrates — the FODMAP foods — are common triggers), stress management, and targeted medicines are the treatment; it is miserable but not dangerous.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Heavy periods",
+  "definition": "Periods heavy enough to run your life: soaking a pad or tampon every hour or two, passing clots the size of a quarter or bigger, bleeding past a week, or flooding through clothes or bedding. The causes: fibroids and polyps in the womb, hormone imbalance (common in the teens and again approaching menopause), a bleeding tendency, thyroid trouble, and sometimes a copper IUD. Heavy bleeding drains iron — fatigue and anemia are the quiet consequences, and iron should be checked. A change toward heavier is itself a finding, whatever the cause turns out to be.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Painful periods",
+  "definition": "Cramps and pelvic pain with menstruation (dysmenorrhea). In teenagers and young women it is usually primary — the womb's own contractions, driven by prostaglandins, with nothing structurally wrong — and it responds to anti-inflammatory medicines (NSAIDs) started early. Pain that begins later in life, keeps worsening, arrives with pain at other times of the month, pain with sex, or trouble conceiving points to a cause: endometriosis above all, also fibroids and adenomyosis. Period pain that rules two or three days of every month is not something to simply endure — it deserves a workup.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bedwetting",
+  "definition": "Wetting the bed during sleep (nocturnal enuresis), in a child old enough to be dry — most children are dry by five. It is common (about 1 in 10 six-year-olds), runs in families, and is no one's fault: the usual reasons are a bladder that matures slowly, deep sleep that misses the full-bladder signal, or making more urine at night. Punishment is pointless and harmful. It almost always resolves with time; alarm training is the most effective treatment when the family wants one. New bedwetting in a child who had been dry, or wetting with daytime symptoms, thirst, or weight loss, needs a check — infection and diabetes are on that list.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hives",
+  "definition": "Itchy, raised welts (urticaria) that appear suddenly, move around, and fade within hours, each spot gone within a day — the skin's reaction to histamine released by mast cells. Triggers: infections (the commonest, especially in children), foods, medicines, insect stings — and often no trigger is ever found. Hives alone are uncomfortable; hives with swelling of the lips or tongue, hoarseness, or trouble breathing is anaphylaxis and an emergency. Hives that keep coming for more than six weeks are called chronic, and they are usually autoimmune, not an allergy — allergy testing rarely finds the answer.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Cold sores",
+  "definition": "Small, painful blisters on or around the lips (herpes labialis), caused by herpes simplex virus type 1 — caught usually in childhood, then living quietly in the nerve for life. Sunlight, fever, stress, and a cold wake it up: tingling first, then the blister cluster, crusting, and healing in a week or two. It is contagious while active — avoid kissing and sharing cups — and dangerous mainly to newborns and people with weak immune systems. Antiviral cream or tablets help most when started at the first tingle. Sores inside the mouth are usually canker sores — a different thing, not herpes, not contagious.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Varicose veins",
+  "definition": "Enlarged, twisted veins just under the skin, usually of the legs. The valves inside leg veins are meant to keep blood moving up against gravity; when they fail, blood pools, pressure rises, and the vein bulges. Standing for long hours, pregnancy, age, and family tendency feed them. Most are a cosmetic nuisance plus aching and heaviness by day's end; the complications are skin darkening and ulcers near the ankle, surface clots, and bleeding from a knocked vein. Compression stockings, walking, and leg elevation are the base treatment; procedures exist for veins that cause symptoms. A leg that swells suddenly and hurts is not varicose veins — that is a possible deep clot, same-day care.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Carpal tunnel syndrome",
+  "definition": "Numbness, tingling, and pain in the hand — thumb, index, middle finger — from the median nerve being squeezed where it passes through a tight channel at the wrist. Classic pattern: it wakes you at night, and shaking the hand helps; holding a phone, a book, or a steering wheel brings it on. Diabetes roughly doubles the chance of getting it (odds ratio about 1.7 in large studies). It is also common in pregnancy — mostly in the last three months — and usually settles after the baby comes. Repetitive wrist work raises the risk too. Left alone it can progress to constant numbness and a weak, clumsy thumb. A wrist splint at night is the first treatment; injections and a small operation to open the channel are the later ones.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Jaw pain",
+  "definition": "Pain in the jaw, in front of the ear, or in the chewing muscles. The usual source is the jaw joint and its muscles (temporomandibular disorder, TMD) — clicking, aching that worsens with chewing, morning soreness from grinding the teeth at night, sometimes a jaw that sticks. Dental trouble — an abscessed tooth — refers pain to the jaw too. Two causes must never be missed: jaw pain or tightness that comes with exertion and fades with rest can be angina — the heart's pain reporting to the jaw — and in an older person, jaw pain when chewing that stops when you stop, with a new headache, points to giant cell arteritis. New jaw pain with either pattern is same-day medicine, not dentistry.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Number needed to treat (NNT)",
+  "definition": "How many patients must be treated, for as long as the trial treated them, for one extra patient to benefit. It is the arithmetic flip of the absolute risk reduction: if a treatment cuts events from 10 in 100 (10%) to 7 in 100 (7%), the absolute reduction is 3 in 100 (3%) and the NNT is about 33. This is why a headline \"30% reduction\" needs its base rate: a 30% relative reduction on a 10% five-year risk is a 3% absolute gain — NNT about 33 over five years — while the same 30% on a 1% risk is an NNT over 300. Relative numbers advertise; the NNT tells you the workload per person helped.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Intention-to-treat",
+  "definition": "The rule that a trial analyzes every patient in the group they were randomized to, whether or not they actually took the treatment, crossed over, or dropped out. It feels unfair — counting people against a drug they never took — but it protects the one thing randomization bought: groups that differ only by chance. Drop everyone who stopped the drug and the groups quietly re-sort themselves by health, wealth, and willpower. Analyses that count only patients who completed treatment as directed (per-protocol) are shown for contrast, and when the two disagree, intention-to-treat is the one to believe for benefit.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Noninferiority trial",
+  "definition": "A trial designed to show a new treatment is not unacceptably worse than the standard one — usually because it is cheaper, safer, gentler, or easier to take. Before the trial starts, the investigators must declare the margin: the largest disadvantage they will still call acceptable — how much worse the new treatment may be than the standard and still count as \"not unacceptably worse.\" The new treatment is declared noninferior only if the confidence interval for the difference stays inside that margin — and noninferior is not the same as equal, and not the same as better. Everything hangs on that margin — set it wide and almost anything passes — and on the analysis, which in these trials should hold up both ways of counting patients, not just the flattering one. A trial that merely fails to prove superiority has shown nothing about noninferiority; \"no significant difference\" is not the same as \"close enough, by a margin declared in advance.\"",
+  "nearest_shelves": [
+   283
+  ]
+ },
+ {
+  "term": "Surrogate endpoint",
+  "definition": "A stand-in measurement — a lab value, a scan number, a rhythm on a monitor — used in place of the outcome patients actually feel: death, heart attack, fracture, going home. Surrogates answer fast and cheap, which is why trials love them, but a treatment can move the number and miss the patient: drugs have lowered blood sugar without preventing heart attacks, and raised the \"good\" cholesterol without preventing anything. A surrogate earns trust only when treatments that move it have repeatedly been shown to move the real outcome too. On these shelves, hard outcomes outrank surrogates, always.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Fragility index",
+  "definition": "A count of how many patients' outcomes would have to flip — one event becoming a non-event, or the reverse — to erase a trial's statistical significance. A result with a fragility index of 1 or 2 rests on one or two patients: a single transfer, a single missed follow-up, and the headline changes. Large, robust trials have fragility indices in the dozens. It is a plain-language stress test for any \"P < 0.05\" claim.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hazard ratio",
+  "definition": "A comparison of event rates between two groups, moment by moment over a trial's follow-up: a hazard ratio of 0.70 means that at any given time, the treated group is having events at 70% of the control group's rate — a 30% relative reduction in the rate. It is not the same as the difference in total risk by the end: the same hazard ratio can mean many events prevented in a high-risk group or very few in a low-risk one, which is why these shelves print the absolute rates beside it whenever the paper reports them. A confidence interval that crosses 1.0 means the data are compatible with no difference at all.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Troponin",
+  "definition": "A protein inside heart muscle cells that leaks into the blood when heart muscle is injured. It is the blood test at the center of heart-attack diagnosis: a rising or falling pattern with at least one value above the 99th percentile of healthy people, together with symptoms or ECG changes, defines a heart attack. Modern high-sensitivity tests detect tiny injuries — which cuts both ways, because troponin also rises when the heart is strained by other illness: severe infection, kidney failure, a racing rhythm, a blood clot in the lung. An elevated troponin says the heart is injured; it does not by itself say a blocked artery did it.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Procalcitonin",
+  "definition": "A blood marker that rises mainly with bacterial infection, used — usually alongside the clinical picture, never instead of it — to help decide whether to start or stop antibiotics. Where it comes from: in health it is the precursor of the hormone calcitonin, made in the thyroid's C cells and converted on the spot, so nearly none reaches the blood. Bacterial infection changes the factory: bacterial toxin and the inflammatory signals — TNF-α and interleukin-6 — switch its gene on in tissues all over the body. The liver is the main source during infection; the spleen contributes, along with lung, kidney, fat, and gut, while lymphocytes contribute only a little. And because those tissues cannot finish converting it to calcitonin, the unfinished precursor is what pours into the blood and gets measured. In trials of patients with respiratory infections and sepsis, procalcitonin-guided care shortened antibiotic courses without worse outcomes. Its limits matter as much: it also rises after major surgery, trauma, and severe inflammation of any cause, and a low value early in an infection does not rule one out. It is a tie-breaker for antibiotics, not a sepsis detector.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Orthostatic hypotension",
+  "definition": "A fall in blood pressure on standing up: a drop of at least 20 points in the top number or 10 in the bottom number within three minutes of standing. Age, dehydration, diabetes, Parkinson's disease, and above all medicines — blood-pressure pills, prostate pills, antidepressants — blunt the reflex. The consequences are dizziness, falls, and fractures. It is found by measuring, not asking: blood pressure lying down, then again at one and three minutes standing. When it is found, the first treatment is often removing or timing a drug, not adding one.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Anion gap",
+  "definition": "A number calculated from the routine electrolytes — sodium minus chloride and bicarbonate — that detects acids accumulating in the blood. A normal gap is roughly 8–16. A high gap has a short, serious list: lactate from shock or sepsis, ketones from diabetic ketoacidosis, kidney failure, and poisons such as methanol. A metabolic acidosis with a normal gap points elsewhere — diarrhea and kidney tubular problems head that list. One correction matters: albumin carries much of the normal gap, so in a sick patient with low albumin the gap looks deceptively small — the gap must be read against the albumin.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Polypharmacy",
+  "definition": "Taking many medicines at once — researchers usually draw the line at five or more, though no count alone makes it wrong. Each drug on the list was usually added for a real reason; the harm lives in the pile: medicines that sedate, lower blood pressure, or block acetylcholine add up across prescribers who may never see the whole list, and the results are falls, confusion, kidney injury, and admissions. The question polypharmacy asks is not \"why is this patient on so much?\" but \"which of these would we not start today, knowing everything we now know?\"\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Deprescribing",
+  "definition": "The planned, supervised process of tapering or stopping a medicine whose harms now outweigh its benefits, or whose benefit has simply run out — the blood-pressure pill dose from a heavier decade, the sleeping pill that outlived the crisis it was prescribed for. It is prescribing, done in reverse and with the same care: one change at a time, a watch for withdrawal or rebound, and a plan for what to do if symptoms return. Deprescribing is not abandonment; a medicine stopped deliberately, with follow-up, is treatment.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Beers criteria",
+  "definition": "A list, maintained by the American Geriatrics Society and updated every few years, of medicines that are potentially inappropriate in older adults — drugs where the risk commonly outweighs the benefit after 65, or that clash with diseases common in old age. It is a caution flag, not a ban — and its listings are not all based on randomized trials: most rest on observational associations and expert consensus rather than randomized trials showing harm, and a listed drug can still be the right choice for a particular patient. Its best use is as a prompt — every drug on the list should be able to explain itself on an older person's chart.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Proteinuria",
+  "definition": "Protein in the urine in amounts beyond the trace that is normal. The kidney's filter is meant to hold protein back, so protein leaking through is a sign the filter is injured — and a risk marker for both kidney decline and cardiovascular events. The familiar part of it is albumin (albuminuria), the protein routine testing measures — and in the commonest pattern, where the filter itself leaks (glomerular proteinuria), albumin makes up approximately 70% of the protein lost; total protein also catches other kinds, including the light chains of myeloma, which albumin-specific tests can miss. A single positive dipstick is not a diagnosis: fever, exercise, and infection cause brief leaks. Persistent proteinuria, confirmed on repeat testing and measured properly, is the finding that counts.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Overdiagnosis",
+  "definition": "Finding a real abnormality that would never have caused symptoms or death in the person's lifetime. It is screening's shadow: the slow prostate cancer in an 85-year-old, the tiny thyroid cancer that would have sat quietly forever. The diagnosis is technically correct — that is what makes it hard — but everything that follows it is pure harm: the biopsies, the surgery, the lifelong label, spent on a disease that was never going to matter. Overdiagnosis cannot be counted in any one patient; it is visible only in populations, when screening finds far more disease yet deaths from that disease barely move.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Lead-time bias",
+  "definition": "The illusion that screening prolongs life when it has only prolonged the diagnosis. If a cancer is found three years earlier by a scan but the person dies on the same day they would have anyway, survival \"from diagnosis\" looks three years longer — yet nothing was gained except three extra years of knowing. Lead-time bias is why survival statistics flatter screening programs, and why the only honest test of screening is whether fewer people die of the disease (and of everything) in a randomized comparison — not how long the diagnosed live after the label.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Competing risk",
+  "definition": "The fact that in real patients, especially older ones, something else may happen first. A treatment aimed at preventing a heart attack in ten years competes with the cancers, infections, and frailty that may intervene in three; a patient who dies of pneumonia cannot go on to have the stroke the trial was counting. When analyses ignore competing risks, they overstate how much of the target outcome is actually available to be prevented — and overstate the treatment's value in exactly the oldest, sickest patients where the question matters most.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Odds ratio",
+  "definition": "A comparison of odds rather than probabilities: the odds of an outcome in one group divided by the odds in another. When an outcome is rare, the odds ratio is close to the relative risk and can be read almost the same way. When the outcome is common, it exaggerates: a risk that rises from 25 in 100 (25%) to 40 in 100 (40%) is a relative risk of 1.6, but an odds ratio of 2.0. Case-control studies can only produce odds ratios, which is one more reason their big numbers deserve a discount until confirmed in trials.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Sensitivity and specificity",
+  "definition": "The two halves of a test's accuracy. Sensitivity is the share of people who truly have the condition that the test catches — a sensitivity of 90% means it misses 1 in 10 cases. Specificity is the share of people who truly do not have it that the test clears — a specificity of 90% means it falsely alarms 1 in 10 healthy people. Neither number tells you what a positive result means for the patient in front of you: that depends on how common the condition is in people like them, which is why a good test used on the wrong population produces mostly false alarms. In one sentence: sensitivity is how many of the truly sick the test catches, and specificity is how many of the truly well it clears.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Regression to the mean",
+  "definition": "The statistical gravity that pulls an extreme measurement toward average on the next reading. Blood pressure caught at a painful, rushed moment will usually be lower when rechecked calmly; the worst week of pain is likely to be followed by a better one, whatever you prescribe. Regression to the mean is the great mimic of treatment effects: start any remedy at the worst moment and it will look like it works. It is why careful medicine repeats the measurement before acting on it, and why trials need a control group — the control group is where regression to the mean shows itself honestly.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Number needed to harm (NNH)",
+  "definition": "The harm-side twin of the number needed to treat: how many patients must receive a treatment, for as long as the trial gave it, for one extra patient to be harmed. If a drug causes a serious side effect in 2 in 100 (2%) against 1 in 100 (1%) on placebo, the absolute increase is 1 in 100 (1%) and the NNH is 100. A treatment is only worth taking when its benefit and harm are weighed on the same scale: an NNT of 33 to prevent one event against an NNH of 100 for a milder harm is one judgment; the same NNT against an NNH of 40 for a worse harm is another. Any benefit claim quoted without its NNH is half a sentence.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Absolute risk reduction",
+  "definition": "The plain subtraction at the heart of every honest benefit claim: the event rate without treatment minus the event rate with it. A fall from 10 in 100 (10%) to 7 in 100 (7%) is an absolute risk reduction of 3 in 100 (3 percentage points) — no matter that the same result can be dressed as a 30% relative reduction. Absolute reduction is the number a patient actually experiences, the number the number-needed-to-treat is built from, and the only form in which benefits can be compared across treatments, trials, and base rates. These shelves label relative figures as relative and print absolute rates beside them whenever the paper reports them.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Per-protocol analysis",
+  "definition": "An analysis that counts only the patients who actually completed the trial as directed — took the drug, stayed in their assigned group, finished follow-up. It answers a tidy question (what does the treatment do in people who truly receive it?) and a biased one, because the patients who stick with a treatment differ from those who stop it — healthier, hardier, fewer side effects — in ways no adjustment fully repairs. When per-protocol and intention-to-treat disagree about benefit, intention-to-treat is the one to believe; per-protocol earns its keep mainly in noninferiority trials and in counting harms among the actually exposed.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Blinding",
+  "definition": "Hiding who got which treatment from the people who could be swayed by knowing. A double-blind trial keeps both patients and their treating clinicians in the dark; the strongest designs also blind the people who judge the outcomes. Blinding matters most where judgment is softest — pain, function, \"clinical improvement,\" decisions to hospitalize — and least where the outcome is a hard count like death. A blind can also quietly break: a drug with an unmistakable side effect unblinds itself, which is why well-run trials sometimes ask participants to guess their group at the end.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Confidence interval",
+  "definition": "The range of values a study's result is compatible with. A hazard ratio of 0.70 with a 95% confidence interval of 0.55 to 0.89 says the data comfortably include everything from a large benefit to a modest one; the same 0.70 with an interval of 0.39 to 1.09 reaches past 1.0 — no difference at all — and the honest reading changes from \"works\" to \"might work.\" Width is the message: narrow intervals come from many events and mean precision; wide ones come from small trials and mean the study has narrowed the truth down to a neighborhood, not an address. Read the interval, not just the headline number inside it.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Positive predictive value",
+  "definition": "Of all the people a test calls positive, the share who truly have the condition. It is where sensitivity and specificity meet real life, because it depends on how common the condition is in the people tested: screen a population where 1 in 1,000 has the disease with a test that is 99% specific, and most positives are false alarms; test people already likely to have it, and the same test's positives are usually real. A positive result is a probability, not a verdict, and this is the number that says how big.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Lactate",
+  "definition": "A chemical the body produces when cells burn glucose without enough oxygen — the exhaust of emergency energy production — and a blood level that rises in shock and sepsis, where it marks tissues being under-perfused and predicts death better than blood pressure does. It is not specific to infection or low oxygen: hard seizures, vigorous exercise, asthma medicines like albuterol, and a tourniquet left on during the blood draw all raise it. What matters clinically is the level and its direction — a lactate that falls as treatment proceeds is the circulation recovering; one that climbs is the opposite.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Bilirubin",
+  "definition": "The yellow pigment left when old red blood cells are broken down and their hemoglobin is dismantled. The liver processes it and excretes it into bile; when it accumulates — from blood breaking down too fast, a liver too sick to process it, or a bile duct blocked downstream — it stains the skin and eyes yellow (jaundice). The pattern of the rest of the liver tests usually separates the three causes. Newborns commonly run high for a few days while their livers mature, which is why nurseries watch the level and use light therapy to bring it down.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Glasgow Coma Scale",
+  "definition": "A bedside score of consciousness built from three responses: eye opening (scored 1–4), speech (1–5), and movement (1–6), summed from 3 (deep coma) to 15 (fully alert). It gives every clinician the same shorthand for a brain's state and its direction — a falling score after head injury is an emergency in one number. Its limits are practical: a breathing tube removes speech, sedation and paralysis flatten everything, and alcohol imitates injury. The components matter as much as the total — two patients at 8 got there by different roads — which is why careful teams report the parts, not just the sum.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Extubation",
+  "definition": "Removing the breathing tube from a patient who has been on a ventilator. The judgment is a balance of two harms: leave the tube and each extra day brings infection, sedation, and weakness; pull it too soon and the patient who cannot protect their airway or sustain the work of breathing fails — and needing the tube reinserted (reintubation) carries its own real risk of death. Readiness is tested, not guessed: awake enough to protect the airway, strong enough cough, and a supervised trial of breathing on minimal support, watched closely, before the tube comes out.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Incidence",
+  "definition": "The rate at which new cases of a condition appear in a population over a stated time: so many new cases per 1,000 (or 100,000) people per year. Incidence measures risk — the chance of joining the group — and it is the number prevention acts on. It is easily confused with prevalence, and the difference matters: a short, common illness (a cold) has high incidence and low prevalence, while a lifelong, well-managed one (type 2 diabetes) accumulates — modest yearly incidence, very high prevalence, because everyone who joins stays.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Prevalence",
+  "definition": "The share of a population living with a condition at a given moment, usually as a percentage. Prevalence is incidence times duration: conditions people live with for decades pile up, so prevalence can be high even when the yearly risk of developing the condition is small. It is the number planners need (how many clinic visits, how much insulin) and the number that decides what a positive test means — the same test finds mostly true cases where prevalence is high and mostly false alarms where it is low.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "P value",
+  "definition": "A measure of how surprising a study's data would be if the treatment truly did nothing. A p value of 0.03 means: in a world where the treatment is useless, results at least this extreme would still show up about 3 times in 100 (3%) by chance alone. Two misunderstandings follow it everywhere: it is NOT the probability that the result is true (nor that it is false), and crossing the conventional 0.05 line says nothing about whether an effect is big enough to matter. Read it as a rough gauge of how hard the data argue against \"nothing happening\" — then read the confidence interval and the absolute numbers to find out what is actually happening.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "False positive",
+  "definition": "A positive test result in a person who does not have the condition. False positives are not laboratory errors; they are arithmetic. A test with 99% specificity falsely alarms 1 in 100 (1%) of healthy people tested — screen 10,000 healthy people and roughly 100 will be told something may be wrong, each owed a workup of scans, biopsies, and anxious weeks. When the condition is rare, false positives can outnumber true ones many times over, which is why screening programs are judged on the whole cascade they start, not only the cancers they catch.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Minimal clinically important difference",
+  "definition": "The smallest change in an outcome that patients themselves perceive as worthwhile — the least improvement in pain, breathlessness, or function that a person would say justified the trouble of treatment. It is the yardstick statistical significance lacks: a large trial can make a change of almost nothing statistically significant, while a result can miss significance in a small trial yet exceed what patients would call meaningful. When a paper reports a benefit, the question to ask of it is not only \"is it real?\" but \"would anyone feel it?\"\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Crossover trial",
+  "definition": "A trial design in which every participant receives each treatment in turn — drug first, then placebo, or the reverse — separated by a washout period, so each person serves as their own control. It is efficient: differences between people, the great noise of parallel trials, cancel out, and far fewer participants are needed. It only works when the condition is stable over time and the first treatment leaves nothing behind — no cure, no lasting change, no learning — which is why crossover designs suit chronic symptoms (pain, reflux, blood pressure) and fail for surgery, vaccines, and anything meant to change the disease itself.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Advance directive",
+  "definition": "A written statement of the care a person would want if they could no longer speak for themselves. It usually has two parts: a living will, naming the treatments they would accept or refuse in stated situations, and a health care proxy (or durable power of attorney for health care), naming the person trusted to decide. A directive guides; it is not itself a medical order — the actionable bedside version is a POLST/MOLST form, signed by a clinician. The document only works if it can be found and if the named person knows it exists: a directive in a drawer is a wish, not a plan.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Hospice",
+  "definition": "A model of care for the last phase of life, when the goal shifts from prolonging life to protecting its quality: expert control of pain and breathlessness, support for the family, and a team — nurse, aide, social worker, chaplain, physician — usually delivered at home. Under the US Medicare benefit it is for people whose doctors judge the prognosis to be six months or less if the illness runs its course; choosing it means leaving behind treatments aimed at cure, not leaving behind care. Its persistent tragedy is timing: many patients are referred only in the final days, when there is little time left for hospice to do what it is good at.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Palliative care",
+  "definition": "Specialized care aimed at relief — of pain, breathlessness, nausea, fear — for people living with serious illness, at any stage and alongside curative treatment. Unlike hospice, it requires no prognosis and no giving up of anything: the same team that helps a patient through chemotherapy helps them decide, over time, what treatment is still worth its burden. Trials of early palliative care in advanced cancer found better quality of life and mood, and in one landmark trial, longer survival. It is the part of medicine that treats the person carrying the disease, and it is underused mostly because it is mistaken for end-of-life care alone.",
+  "nearest_shelves": [
+   367
+  ]
+ },
+ {
+  "term": "Feeding tube (gastrostomy)",
+  "definition": "A tube passed through the abdominal wall into the stomach (placed endoscopically, it is a PEG) so liquid nutrition can be given when swallowing is impossible or unsafe — after some strokes, in diseases of the swallowing muscles, or when the gut must be fed during a long recovery. It bypasses the mouth, not the lungs: food and saliva can still be inhaled, so a feeding tube does not reliably prevent aspiration pneumonia, the harm it is most often placed to avoid. In advanced dementia, guidelines recommend careful hand feeding as tolerated instead — tubes there have not been shown to prolong life or prevent aspiration, and they add restraint, infection, and hospital transfers to a life already narrowing.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Relative risk",
+  "definition": "The risk of an outcome in one group divided by the risk in another. If events occur in 7 in 100 (7%) of treated patients and 10 in 100 (10%) of controls, the relative risk is 0.70 — a 30% relative risk reduction. That same result is an absolute reduction of 3 in 100 (3 percentage points), and relative risk alone never tells you which of those you are looking at: a relative risk of 0.70 on a common outcome prevents many events, and on a rare one almost none. Relative risk also says nothing by itself about whether a difference is real or chance — that is the confidence interval's job. On these shelves a percent drawn from a relative measure is always labeled relative, and the absolute rates are printed beside it whenever the paper reports them.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Composite endpoint",
+  "definition": "A trial outcome built by pooling several different events into one count — classically death, heart attack, and stroke pooled as \"major adverse cardiovascular events.\" That classic three-part pool has a name of its own: MACE — major adverse cardiovascular events — meaning cardiovascular death, nonfatal heart attack, and nonfatal stroke counted together as one outcome. Some trials widen it to four or five parts by adding hospitalization for unstable angina or a repeat procedure to open a blocked artery (revascularization), so whenever a card reports MACE it says which parts were counted. Pooling buys events, and events buy statistical power, which is why large trials use composites. The cost is honesty about what moved: the components are rarely equal in importance, and the composite is often driven by its commonest, softest member — hospitalizations or repeat procedures — while death, the component patients care about most, barely changes. The rule for reading one: never accept the pooled number until you have seen each component separately and found which one did the work.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Subgroup analysis",
+  "definition": "Re-examining a trial's result inside slices of its patients — older or younger, men or women, sicker or less sick. Subgroups feel informative and are mostly a trap: test enough slices and chance guarantees a winner — run 20 subgroups at the usual significance line and about one will look positive even if the treatment does nothing differently in anyone. The landmark warning came from the ISIS-2 aspirin trial, whose investigators showed that aspirin appeared not to work in patients born under Gemini or Libra — a result nobody believed, published precisely to show what slicing can manufacture. A subgroup claim earns belief only when it was declared in advance, is one of very few tested, is large, and survives the honest test — comparing the subgroups against each other (an interaction test) — rather than merely being significant in one slice and not the other.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Washout period",
+  "definition": "A planned gap with no treatment, used before a trial starts or between the two halves of a crossover trial, so the previous drug's effect clears before the next measurement. It only works if it is long enough: a drug's effect fades with its half-life, and after about five half-lives roughly 97% is gone. Too short a washout lets the first treatment leak into the second period (carryover) and quietly corrupts the comparison. Washouts also have limits in the other direction — a needed treatment cannot always be paused safely, and a treatment that cures or permanently changes the disease can never be washed out at all.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "False negative",
+  "definition": "A negative test result in a person who does have the condition — the missing twin of the false positive. False negatives are arithmetic, not laboratory errors: a test with 90% sensitivity misses 10 in 100 (10%) of true cases, so whether a negative result should reassure you depends on how likely the condition was before the test. Early in an infection, before the marker rises, is the classic setup. When suspicion stays high after a negative result, the correct move is not to accept the verdict but to repeat the test, use a different one, or treat the patient in front of you — a negative result lowers a probability; it rarely erases one.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Kaplan–Meier curve",
+  "definition": "The step-shaped graph trials use to show survival — or freedom from any event — over time. The line starts at 100% and steps down each time an event occurs; small tick marks show censoring, the patients who left the picture alive or uncounted (study ended, lost to follow-up). Reading one well means three habits: watch where the two groups' curves separate and whether they stay separated or cross; distrust the far right-hand tail, where few patients remain — the little table of \"numbers at risk\" printed under most curves tells you how few; and remember the curve shows the share affected, not how much longer any one person lived.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "C-reactive protein (CRP)",
+  "definition": "A protein made by the liver and poured into the blood whenever tissue is injured or infected. The order to make it comes mainly from interleukin-6, one of the body's central inflammatory signals; levels rise within hours, peak at about two days, and fall quickly when the cause settles. CRP is a smoke alarm, not an address: it rises with bacterial infection, heart attack, surgery, arthritis flares, and cancer alike, so a high value says \"inflammation, somewhere, of roughly this size\" and nothing more specific. Measured with a high-sensitivity assay (hsCRP), the low levels seen in quiet, chronic inflammation also track cardiovascular risk. Albumin moves the opposite way in the same illnesses — it falls with inflammation or injury, and diet does not lower it — which is why a low albumin is a marker of inflammation, not of what a patient eats.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "B-type natriuretic peptide (BNP)",
+  "definition": "A hormone released by the heart's main pumping chambers when their walls are stretched — by pressure or by extra volume, as in heart failure. The blood tests (BNP itself, or its longer-lived companion piece NT-proBNP) earn their keep in the breathless patient: a low value makes heart failure an unlikely cause, while a high value supports it. The traps run both ways: levels also climb with age, kidney failure, and atrial fibrillation, and run deceptively lower in obesity. The name is the job description — natriuretic means promoting sodium loss into the urine, the heart's own attempt to unload the fluid that is stretching it.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "D-dimer",
+  "definition": "A fragment left behind when a blood clot is broken down — proof that clot was formed and dissolved somewhere in the body. Its clinical value is almost entirely in the negative: in a patient whose chance of a deep vein thrombosis or pulmonary embolism is low or middling, a normal D-dimer makes the clot unlikely enough to stop the hunt without a scan. A raised D-dimer, by contrast, proves almost nothing on its own — surgery, pregnancy, cancer, infection, injury, and plain advancing age all raise it. Because age raises it, many emergency departments adjust the cut-off upward in patients over 50 (the patient's age times ten, in the usual units) rather than calling every older patient's result positive.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Pleural effusion",
+  "definition": "Fluid collected in the thin space between the lung and the chest wall. A little fluid there is normal lubrication; a collection large enough to name compresses the lung and causes breathlessness, worst lying flat. The causes sort into two families: fluid pushed out by pressure or low protein — heart failure above all, also liver and kidney failure — and fluid leaked by local disease — pneumonia, cancer, a blood clot in the lung. Separating the two families is the first diagnostic job, done by sampling the fluid with a needle (thoracentesis) and comparing its protein and enzyme levels against the blood's; removing a larger volume is also the fastest relief for the breathlessness.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Legacy effect",
+  "definition": "The delayed benefit of good control early: in the UKPDS follow-up, the advantages of intensive glucose control (fewer heart attacks and deaths) appeared only years after the trial ended, long after glucose levels in the two groups had become the same. Sometimes called metabolic memory.",
+  "nearest_shelves": [
+   284
+  ]
+ },
+ {
+  "term": "Treat-to-target",
+  "definition": "A trial design in which doses in every group are adjusted toward the same pre-set target (for example, a fasting glucose range). The comparison is then between the treatments themselves, fairly dosed — the price is that the design can hide differences in dose needed or in side effects on the way to the target.",
+  "nearest_shelves": [
+   287
+  ]
+ },
+ {
+  "term": "Panretinal photocoagulation",
+  "definition": "Laser treatment for proliferative diabetic retinopathy: hundreds of small burns scattered across the peripheral retina reduce the drive to grow fragile new blood vessels. It protects the central vision the patient reads with, at the cost of some peripheral and night vision.",
+  "nearest_shelves": [
+   285
+  ]
+ },
+ {
+  "term": "Anti-VEGF therapy",
+  "definition": "Treatment with drugs that block vascular endothelial growth factor (VEGF), the signal that makes abnormal blood vessels grow and leak. In diabetic eye disease the drug (for example ranibizumab or aflibercept) is injected into the eye to treat macular edema and proliferative retinopathy.",
+  "nearest_shelves": [
+   285
+  ]
+ },
+ {
+  "term": "Small for gestational age",
+  "definition": "A newborn whose birthweight falls below the 10th percentile for babies born at the same gestational age. It is a size description, not a diagnosis: some babies are small and healthy, others are small because growth was restricted.",
+  "nearest_shelves": [
+   286
+  ]
+ },
+ {
+  "term": "Large for gestational age",
+  "definition": "A newborn whose birthweight falls above the 90th percentile for babies born at the same gestational age. In diabetes in pregnancy it usually reflects the baby's exposure to extra glucose — and a higher chance of birth injury and of needing a caesarean birth.",
+  "nearest_shelves": [
+   286
+  ]
+ },
+ {
+  "term": "Hyperglycemia with ketosis",
+  "definition": "High blood glucose with ketones present in the blood or urine, short of full diabetic ketoacidosis. Trials report it as a safety signal because ketosis is the first step on that road — the term is deliberately weaker than \"ketoacidosis\" and the two should not be interchanged.",
+  "nearest_shelves": [
+   287
+  ]
+ },
+ {
+  "term": "Severe hypoglycemia",
+  "definition": "A low-blood-glucose episode severe enough that the person needs another person's help to recover. Trials count it separately from milder lows the person treats themselves, because it is the level of hypoglycemia that injures, hospitalizes, and kills.",
+  "nearest_shelves": [
+   283
+  ]
+ },
+ {
+  "term": "Rate ratio",
+  "definition": "A comparison of event rates between two groups, counting repeat events per unit of time; unlike a risk ratio it uses events per person-year, so one person can contribute more than one event.",
+  "nearest_shelves": [
+   283
+  ]
+ },
+ {
+  "term": "Time in range",
+  "definition": "The percentage of the day a continuous glucose monitor reads in the target range of 70 to 180 mg/dL. The usual goal for most adults with diabetes is more than 70% of the day in range; time below range matters as much as time above it, because it counts the lows.",
+  "nearest_shelves": [
+   283
+  ]
+ },
+ {
+  "term": "Alzheimer's disease",
+  "definition": "A progressive brain disease and the commonest cause of dementia: amyloid plaques and tau tangles accumulate, memory and thinking erode over years, and daily function is gradually lost. Diagnosis is clinical, increasingly supported by amyloid and tau tests; whether removing amyloid produces benefit patients can feel is a trial question — see the shelves.",
+  "nearest_shelves": [
+   332,
+   333
+  ]
+ },
+ {
+  "term": "Patent foramen ovale (PFO)",
+  "definition": "A small flap-like opening between the heart's upper chambers that fails to seal shut after birth — present in about a quarter of adults. It usually causes no trouble, but a clot crossing it can reach the brain and cause a stroke; whether closing it after such a stroke helps is a trial question — see the shelves.",
+  "nearest_shelves": [
+   189,
+   334
+  ]
+ },
+ {
+  "term": "Carotid stenosis",
+  "definition": "Narrowing of a carotid artery in the neck, usually by cholesterol plaque. It can cause a stroke when plaque ruptures or a clot forms and travels to the brain; many narrowings are found before any symptom. How best to treat it — surgery, stenting, or medicines alone — is a trial question — see the shelves.",
+  "nearest_shelves": [
+   335
+  ]
+ },
+ {
+  "term": "Gastroesophageal reflux disease (GERD)",
+  "definition": "A condition in which stomach acid repeatedly flows back into the esophagus, causing heartburn and regurgitation and sometimes damaging the esophageal lining over time. Treatment ranges from acid-suppressing medicines to antireflux surgery — see the shelves.",
+  "nearest_shelves": [
+   328
+  ]
+ },
+ {
+  "term": "FODMAP",
+  "definition": "A group of short-chain carbohydrates — fermentable oligosaccharides, disaccharides, monosaccharides and polyols — found in many fruits, vegetables, grains, dairy foods and sweeteners. They are poorly absorbed and fermented by gut bacteria, so they can provoke bloating and pain in irritable bowel syndrome; a low-FODMAP diet restricts them for a trial period.",
+  "nearest_shelves": [
+   327,
+   331
+  ]
+ },
+ {
+  "term": "Subdural hematoma",
+  "definition": "A collection of blood between the brain's surface and its outer covering (the dura), usually from torn bridging veins. The chronic form builds up slowly over weeks, mostly in older adults, and can return after surgical drainage.",
+  "nearest_shelves": [
+   339
+  ]
+ },
+ {
+  "term": "Subclinical hypothyroidism",
+  "definition": "A blood-test pattern, not a symptom: the thyroid-stimulating hormone (TSH) level is raised while the thyroid hormone level (free T4) stays in the normal range. Most people with it feel no different.",
+  "nearest_shelves": [
+   354
+  ]
+ },
+ {
+  "term": "Drug holiday",
+  "definition": "A planned, monitored pause in a long-term medicine, used when a drug's benefits outlast its dosing — as bisphosphonates do, lingering in bone for years — so a pause may keep most of the benefit while shedding the risks of indefinite use.",
+  "nearest_shelves": [
+   351
+  ]
+ },
+ {
+  "term": "PARP inhibitor",
+  "definition": "A class of cancer drugs that block poly(ADP-ribose) polymerase, an enzyme cancer cells use to repair DNA damage. They work hardest against cancers whose other repair system is already broken — tumors with BRCA mutations or homologous recombination deficiency — which is why their benefit follows the biomarker. Olaparib and niraparib are examples, used mainly as maintenance therapy in ovarian cancer.",
+  "nearest_shelves": [
+   364
+  ]
+ },
+ {
+  "term": "Homologous recombination deficiency (HRD)",
+  "definition": "A tumor's inability to repair double-strand DNA breaks by the high-fidelity homologous-recombination pathway — caused by BRCA1/2 mutations or other defects in that machinery. A cancer with HRD is vulnerable to PARP inhibitors, which block its backup repair route; a cancer without it (HR-proficient) is much less so. Trials report results split by HRD status because the treatment effect splits there too.",
+  "nearest_shelves": [
+   364
+  ]
+ },
+ {
+  "term": "Febrile neutropenia",
+  "definition": "Fever during the period when chemotherapy has driven the neutrophil count (the white cells that fight bacterial infection) dangerously low. It is treated as an emergency — blood cultures and immediate antibiotics — because in a neutropenic patient fever may be the only sign of a bloodstream infection. Chemotherapy regimens are graded by how often they cause it, and preventive G-CSF is standard when that risk reaches about 20%.",
+  "nearest_shelves": [
+   370
+  ]
+ },
+ {
+  "term": "Androgen deprivation therapy (ADT)",
+  "definition": "Treatment that stops the body making testosterone, or blocks its action, used against prostate cancer, whose growth testosterone feeds. Given with radiation for higher-risk localized disease, its benefit grows with duration up to a point — and so do its costs: hot flushes, lost libido and bone, metabolic change, and worse quality of life, which is why how long it should run is itself a trial question.",
+  "nearest_shelves": [
+   371
+  ]
+ },
+ {
+  "term": "Chronic rhinosinusitis with nasal polyps (CRSwNP)",
+  "definition": "Long-standing inflammation of the nose and sinuses with soft, painless growths (polyps) in the nasal passages, causing blockage, discharge, facial pressure, and loss of smell. Ordinary disease is managed with intranasal steroids and sometimes surgery; the biologic drugs are reserved for severe disease that keeps returning despite them.",
+  "nearest_shelves": [
+   375
+  ]
+ },
+ {
+  "term": "Oral immunotherapy (OIT)",
+  "definition": "A treatment for food allergy in which the patient eats a tiny, precisely measured dose of the allergen every day, increasing slowly to a maintenance dose, in order to raise the amount that can be eaten accidentally without a reaction (desensitization). It is not a cure: protection lasts only while dosing continues for most patients, and the doses themselves commonly cause allergic reactions — the central trade-off its trials measure.",
+  "nearest_shelves": [
+   376
+  ]
+ },
+ {
+  "term": "PASI (Psoriasis Area and Severity Index)",
+  "definition": "The standard score for psoriasis severity, combining how much of the body is covered with how red, thick, and scaly the plaques are. Trials report the share of patients reaching PASI-75, PASI-90, or PASI-100 — improvements of at least 75%, 90%, or a full 100% (completely clear skin). Modern biologics are compared mainly on PASI-90.",
+  "nearest_shelves": [
+   377
+  ]
+ },
+ {
+  "term": "Sudden sensorineural hearing loss",
+  "definition": "A rapid loss of hearing (typically at least 30 dB over three frequencies within 72 hours) from the inner ear or hearing nerve, usually in one ear and usually without an identifiable cause. It is treated as an emergency because the window for any treatment to help is short, and a substantial share of cases recover partly or fully on their own — which is what makes its treatment evidence hard to read.",
+  "nearest_shelves": [
+   378
+  ]
+ },
+ {
+  "term": "Allergen immunotherapy",
+  "definition": "Treatment of an allergy by giving the patient the allergen itself in controlled, gradually sufficient doses (under the tongue — SLIT — or by injection) over years, to retrain the immune response rather than merely block symptoms. It is the only allergy treatment whose benefit can persist after it stops; whether it can prevent asthma from developing is a separate, unproven claim.",
+  "nearest_shelves": [
+   379
+  ]
+ },
+ {
+  "term": "Vitiligo",
+  "definition": "An autoimmune condition in which the skin's pigment cells (melanocytes) are destroyed, leaving smooth white patches, often on the face and hands. It is not contagious and does not damage internal organs, but its visibility makes it heavily burdensome. Repigmentation, when treatment works at all, is slow and usually partial.",
+  "nearest_shelves": [
+   380
+  ]
+ },
+ {
+  "term": "Hidradenitis suppurativa",
+  "definition": "A chronic inflammatory skin disease of hair follicles in the armpits, groin, and similar areas, causing painful boils and abscesses that can join into draining tunnels and leave rope-like scars. Despite the name it is not primarily an infection. Trials grade response with HiSCR: at least a 50% fall in abscess and inflammatory-nodule count with no new abscesses or draining fistulas.",
+  "nearest_shelves": [
+   381
+  ]
+ },
+ {
+  "term": "Giant cell arteritis",
+  "definition": "Inflammation of large and medium arteries, almost always in people over 50, classically causing new headache, scalp tenderness, jaw pain when chewing, and — its emergency — sudden vision loss from an inflamed artery to the eye. Treatment is immediate high-dose glucocorticoids, then a long, toxic taper that modern biologic therapy tries to shorten.",
+  "nearest_shelves": [
+   385
+  ]
+ },
+ {
+  "term": "ANCA-associated vasculitis",
+  "definition": "A group of diseases (granulomatosis with polyangiitis, microscopic polyangiitis, and renal-limited vasculitis) in which autoantibodies called ANCA drive inflammation of small blood vessels, attacking especially the kidneys and lungs. Untreated it was usually fatal; remission is induced with cyclophosphamide or rituximab plus glucocorticoids, then held with maintenance treatment.",
+  "nearest_shelves": [
+   386
+  ]
+ },
+ {
+  "term": "Oral immunotherapy (OIT)",
+  "definition": "A treatment for food allergy in which the allergic person swallows tiny, gradually increasing amounts of the food under medical supervision, raising the dose that triggers a reaction while treatment continues (desensitization). The protection usually fades if dosing stops; it is not the same as outgrowing the allergy.",
+  "nearest_shelves": [
+   392,
+   393,
+   376
+  ]
+ },
+ {
+  "term": "Sustained unresponsiveness",
+  "definition": "In food-allergy immunotherapy, still passing a food challenge after a period of eating none of the food and taking no treatment — a step beyond desensitization, which is tested while still dosing, but short of proven lifelong tolerance.",
+  "nearest_shelves": [
+   393,
+   392
+  ]
+ },
+ {
+  "term": "Eosinophilic esophagitis",
+  "definition": "A chronic allergic inflammation of the esophagus (food pipe) in which eosinophils — a type of white blood cell — build up in its lining, causing difficulty swallowing and food getting stuck. It is diagnosed by biopsy at endoscopy; the trial threshold for histologic remission is no more than 6 eosinophils per high-power microscope field.",
+  "nearest_shelves": [
+   396
+  ]
+ },
+ {
+  "term": "Hereditary angioedema",
+  "definition": "An inherited deficiency or dysfunction of the C1 inhibitor protein that lets the kallikrein–bradykinin pathway trigger episodes of deep swelling of the skin, gut, or airway — without hives, and unresponsive to antihistamines or epinephrine. Airway attacks can be fatal; modern prophylaxis blocks plasma kallikrein or replaces C1 inhibitor.",
+  "nearest_shelves": [
+   400
+  ]
+ },
+ {
+  "term": "Urticaria (hives)",
+  "definition": "Raised, itchy welts on the skin. Chronic spontaneous urticaria means hives on most days for more than six weeks with no external trigger found — the immune system activates the skin’s mast cells on its own. Trials score it with the UAS7: itch plus hives over seven days, where 0 is complete response.",
+  "nearest_shelves": [
+   398
+  ]
+ },
+ {
+  "term": "Opioid use disorder",
+  "definition": "A pattern of opioid use that causes significant impairment or distress — craving, loss of control over use, and continued use despite harm. It is treated with medicines (methadone, buprenorphine, naltrexone) that reduce craving and relapse; how well each works is a trial question — see the shelves.",
+  "nearest_shelves": [
+   402,
+   403
+  ]
+ },
+ {
+  "term": "Naloxone",
+  "definition": "A medicine that rapidly reverses an opioid overdose by blocking opioid receptors, restoring breathing within minutes. It is given by injection or nasal spray, is safe in people who are not overdosing, and wears off within an hour or so — which is why emergency services should still be called.",
+  "nearest_shelves": [
+   406
+  ]
+ },
+ {
+  "term": "Contingency management",
+  "definition": "A behavioral treatment that gives tangible rewards — vouchers or prizes — for verified target behavior, most often a drug-negative urine test. The rewards are the treatment; what happens when they stop is a separate question the shelves grade separately.",
+  "nearest_shelves": [
+   405
+  ]
+ },
+ {
+  "term": "Treatment-resistant depression",
+  "definition": "Major depression that has not responded adequately to at least two antidepressant treatments in the current episode. It is the population studied in the esketamine, ketamine, and psilocybin trials on the shelves — results there do not automatically extend to depression that has not yet had standard treatment.",
+  "nearest_shelves": [
+   407,
+   408
+  ]
+ },
+ {
+  "term": "Preeclampsia",
+  "definition": "A pregnancy complication of high blood pressure with signs of organ strain — protein in the urine, or effects on the liver, kidneys, blood, or brain — arising after 20 weeks. The preterm form (delivered before 37 weeks) is the dangerous early disease the aspirin trials aim to prevent; the term form is a separate, milder-on-average condition, and treatments that prevent one have not been shown to prevent the other.",
+  "nearest_shelves": [
+   412,
+   151
+  ]
+ },
+ {
+  "term": "Cerebral palsy",
+  "definition": "A group of permanent disorders of movement and posture caused by injury to the developing brain, most often around the time of preterm birth. It does not worsen over time, but its effects on walking, movement, and independence are lifelong — which is why preventing it, rather than treating it, is the goal of the magnesium trials.",
+  "nearest_shelves": [
+   413
+  ]
+ },
+ {
+  "term": "Preterm birth",
+  "definition": "Birth before 37 completed weeks of pregnancy. The earlier the birth, the higher the risks of death and disability: most of the trials on the pregnancy shelves enroll the earliest groups — before 34 weeks (late preterm is 34–36 weeks) or before 30 weeks — and their results do not automatically extend across the whole range.",
+  "nearest_shelves": [
+   415,
+   417,
+   418
+  ]
+ },
+ {
+  "term": "Necrotizing enterocolitis (NEC)",
+  "definition": "A serious intestinal disease of newborns, mostly preterm, in which part of the bowel wall becomes inflamed and can die, sometimes perforating. It is one of the most feared complications of prematurity, and on the ORACLE shelf it is the harm that rules co-amoxiclav out after ruptured membranes.",
+  "nearest_shelves": [
+   419
+  ]
+ },
+ {
+  "term": "Bronchopulmonary dysplasia (BPD)",
+  "definition": "The chronic lung disease of prematurity: lungs injured and interrupted in development by the very support that keeps an extremely preterm baby alive — oxygen and mechanical ventilation — so the baby still needs oxygen around the date they were due to be born (36 weeks). It is the “BPD” half of the “death or BPD” outcome the CPAP trials were built around.",
+  "nearest_shelves": [
+   421
+  ]
+ },
+ {
+  "term": "Kangaroo mother care",
+  "definition": "Newborn care built on prolonged skin-to-skin contact between a low-birth-weight baby and the mother (or another caregiver), usually with frequent breastfeeding. Started after stabilization it was already standard in many units; the iKMC trial tested starting it immediately, in a unit where mothers stay resident — a median 17 hours a day of contact.",
+  "nearest_shelves": [
+   420
+  ]
+ },
+ {
+  "term": "Postpartum hemorrhage",
+  "definition": "Heavy bleeding after birth, conventionally defined as blood loss of 500 mL or more after vaginal birth, with 1,000 mL or more classed as severe. It is the leading cause of maternal death worldwide, and the two thresholds are not interchangeable — a treatment can reduce moderate hemorrhage without reducing severe hemorrhage, and the shelves grade them separately.",
+  "nearest_shelves": [
+   416
+  ]
+ },
+ {
+  "term": "Massive transfusion",
+  "definition": "Transfusing blood on the scale of a patient’s whole blood volume — conventionally ten or more units of red cells in 24 hours, though in practice the term means the emergency protocol itself: red cells, plasma and platelets released together, in set ratios, before laboratory results can steer.",
+  "nearest_shelves": [
+   422
+  ]
+ },
+ {
+  "term": "Cryoprecipitate",
+  "definition": "A blood product made by thawing frozen plasma partway: the cold-insoluble fraction that settles out is rich in fibrinogen, the protein blood needs to form the mesh of a clot. It is the traditional way to replace fibrinogen in a bleeding patient.",
+  "nearest_shelves": [
+   424,
+   426
+  ]
+ },
+ {
+  "term": "Viscoelastic testing (TEG/ROTEM)",
+  "definition": "Bedside tests that watch a small sample of blood clot in a cup and draw its strength over time as a trace — thromboelastography (TEG) and rotational thromboelastometry (ROTEM) are the two systems. The trace shows how fast the clot starts, how strong it gets, and whether it is breaking down, and is used to choose blood products during major bleeding.",
+  "nearest_shelves": [
+   425
+  ]
+ },
+ {
+  "term": "Whole blood (transfusion)",
+  "definition": "Blood transfused as one product — red cells, plasma and platelets together in the bag, as it left the donor — instead of separated components given from different bags. Modern trauma practice mostly uses cold-stored low-titer group O whole blood.",
+  "nearest_shelves": [
+   427
+  ]
+ },
+ {
+  "term": "REBOA",
+  "definition": "Resuscitative endovascular balloon occlusion of the aorta: a catheter threaded from the groin into the aorta, where a balloon is inflated to stop blood flowing past it — a clamp from inside the vessel, used to slow bleeding below the balloon until surgery can control it.",
+  "nearest_shelves": [
+   428
+  ]
+ },
+ {
+  "term": "Fibrinogen concentrate",
+  "definition": "A purified fibrinogen product made from pooled human plasma, stored as a powder and reconstituted at the bedside in minutes — no thawing and no blood-group matching. It is the manufactured alternative to cryoprecipitate for replacing fibrinogen in a bleeding patient.",
+  "nearest_shelves": [
+   426,
+   523,
+   424
+  ]
+ },
+ {
+  "term": "Randomization",
+  "definition": "Assigning patients to treatment groups by chance — a coin flip, in modern dress a computer's random sequence — rather than by anyone's choice. It is the single most important design feature in this library, because it is the only method that balances the groups on factors nobody measured or even knows about: doctors choosing who gets the new drug will, however honestly, steer it toward patients they judge more (or less) likely to benefit, and no statistical adjustment fully undoes that steering. Randomization only works if the sequence is concealed until the patient is in (allocation concealment) — a predictable sequence is a choice wearing a costume. When a card here says \"observational,\" this is the ingredient that is missing, and it is why such cards carry weaker grades.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Median",
+  "definition": "The middle value: half the patients fall below it, half above. Trials report medians for skewed quantities — blood loss, length of stay, time to treatment — because a few extreme values drag an average (mean) far from the typical patient: one patient who stays 90 days makes a ward's mean stay meaningless, while the median stay barely moves. The median's blind spot is the tails: two groups can share a median blood loss while one has far more catastrophic bleeds. When a card gives a median without a spread, treat the number as half a result.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Interquartile range (IQR)",
+  "definition": "The spread printed beside a median: the range from the 25th percentile to the 75th — the middle half of patients. A median time to treatment of 29 minutes with an IQR of 23–40 means a quarter of patients were treated within 23 minutes and a quarter waited beyond 40. Read the IQR before the median: a tight IQR says the typical experience really was typical; a wide one says the headline number hides patients at both extremes, and the extremes are often where the harm or the benefit lives.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Interim analysis",
+  "definition": "A planned look at a trial's results while it is still running, at a pre-set point — half the patients enrolled, say, or half the expected events counted. Trials plan these looks because continuing to randomize patients after the answer is already clear (in either direction) is unethical, and because a hopeless trial wastes everyone still enrolling. The price is discipline: each peek spends some of the trial's statistical allowance, so the final result must clear a slightly higher bar, and unplanned peeking inflates false positives exactly the way subgroup slicing does. When a card says a trial \"stopped at a planned interim analysis,\" the look was part of the design — when it just says \"stopped early,\" ask whose look it was.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Futility",
+  "definition": "The judgment, usually at an interim analysis, that a trial cannot succeed even if it runs to completion: the remaining patients, even if every one of them broke the treatment's way, could not push the result across the line. The formal version is conditional power — the probability of a positive final result given the data so far — and trials commonly stop when it falls below about 20–25%. A futility stop is not a finding of harm and not proof the treatment does nothing; it is proof that the effect, if any, is smaller than the trial was built to detect. Several cards distinguish the two carefully: COMBAT and FiiRST-2 stopped for futility; COCA stopped over concern about harm — different doors out of a trial, with different meanings.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Data and safety monitoring board (DSMB)",
+  "definition": "The independent committee — clinicians and statisticians with no stake in the trial — that alone sees the unblinded interim results while a trial runs. Its job is the participants, not the publication: it can recommend stopping for clear benefit (as in the kangaroo-care trial on these shelves), for harm, or for futility, and its members are the only people allowed to know which way the data are leaning while enrollment continues. A DSMB recommendation is advice to the trial's steering committee, which occasionally disagrees — when a card reports who stopped a trial and why, that chain of decision is part of the evidence.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Interaction test",
+  "definition": "The honest way to ask whether a treatment works differently in one kind of patient than another: a statistical test of whether the effect in subgroup A differs from the effect in subgroup B. It exists because the common shortcut is a fallacy — \"significant in men, not significant in women\" does not show the treatment differs by sex; it usually shows only that one subgroup was smaller. A real difference requires the interaction test itself to be significant, and even then it earns belief only if the subgroup was named in advance and few were tested. Cards on these shelves report interaction P values where the paper gives them (for example, dialysis vs non-dialysis patients in SHARP, P=0.25 — no demonstrated difference) precisely so the reader is not left comparing significance labels.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Systematic review",
+  "definition": "A study of studies: a search for every trial (or study) answering one question, run to a written protocol — databases, dates, inclusion rules declared in advance — followed by an explicit appraisal of each study's quality. Its pooled form is the meta-analysis. The protocol is what separates a systematic review from a narrative one: a reviewer free to choose studies after seeing their results can manufacture any conclusion the literature's noise permits. This library cards systematic reviews as context and synthesis, not as exhibits — a pool is only as honest as the trials inside it, and the trials are carded on their own shelves where they can be.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Equipoise",
+  "definition": "The honest uncertainty that makes a randomized trial ethical: the expert community genuinely does not know which of the compared treatments is better, so offering a patient a coin flip between them wrongs no one. Equipoise is what new evidence erodes — once a trial answers the question, randomizing the next patient to the losing arm becomes hard to defend, which is one reason practice-changing trials close questions quickly. Its absence is also diagnostic: when clinicians are sure a treatment works and refuse to randomize, the \"evidence\" that accumulates is observational forever — several shelves here (whole blood among them) sit at weak grades for exactly that reason.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Exsanguination",
+  "definition": "Death from loss of blood — bleeding out. It is the mechanism, not just the outcome: a patient can receive twenty units of blood and still die of exsanguination if the bleeding outruns the replacement. In trauma it is one of the few immediately preventable causes of death, which is why the hemorrhage shelves distinguish it from all-cause mortality: in PROPPR, overall mortality did not differ significantly between transfusion ratios, but deaths from exsanguination did (9.2% vs 14.6%) — a signal visible only because the trial counted the mechanism separately. When a card reports \"death due to bleeding,\" this is the event being counted.\n\nNearest shelves:",
+  "nearest_shelves": []
+ },
+ {
+  "term": "Adenoma detection rate (ADR)",
+  "definition": "The share of colonoscopies in which at least one adenoma — a precancerous polyp — is found. It is colonoscopy's main quality score: endoscopists with higher rates miss fewer cancers in their patients later. A detection aid can raise the rate mainly by finding more tiny adenomas, which is why this library separates the detection gain from the unproven cancer gain.",
+  "nearest_shelves": [
+   433
+  ]
+ },
+ {
+  "term": "Polygenic risk score",
+  "definition": "A single number summarizing the small inherited risks carried at many places across the genome at once — thousands to millions of common variants, each trivial alone, added into one score. The top few percent of a score can carry risk comparable to a single-gene mutation; for most people the score moves prediction only slightly beyond ordinary clinical risk factors.",
+  "nearest_shelves": [
+   440
+  ]
+ },
+ {
+  "term": "Multi-cancer early detection (MCED) test",
+  "definition": "A blood test that looks for cancer signals — typically fragments of tumor DNA shed into the blood, read by their methylation pattern — across many cancer types at once, from a single draw. A positive result starts a diagnostic hunt; it is not a diagnosis, and in the first large prospective study most positive results proved to be false alarms.",
+  "nearest_shelves": [
+   441
+  ]
+ },
+ {
+  "term": "Hospital at home",
+  "definition": "Hospital-level care — daily clinician visits, intravenous medicines, monitoring — delivered in the patient's own home instead of a ward, either avoiding an admission or replacing its later days. Trials test it in selected patients who have a home, support, and an illness expected to behave; the results do not automatically extend beyond that fence.",
+  "nearest_shelves": [
+   438
+  ]
+ },
+ {
+  "term": "Co-trimoxazole",
+  "definition": "A fixed combination of two antibiotics, trimethoprim and sulfamethoxazole, that block bacterial folate production at two successive steps. Taken daily in small doses it prevents opportunistic infections — bacterial pneumonias above all — in people whose immune systems are suppressed, which is why a Zambian trial could test whether it saves children's lives even where bacteria are widely resistant to it.",
+  "nearest_shelves": [
+   524
+  ]
+ },
+ {
+  "term": "Clofibrate",
+  "definition": "The first widely used cholesterol-lowering drug of the fibrate class, taken as a daily capsule. Its 1978 WHO trial — run in Edinburgh, Budapest, and Prague — lowered cholesterol and non-fatal heart attacks while raising overall mortality during treatment, making it the founding cautionary tale of lipid medicine; the drug was eventually withdrawn in many countries, while later fibrates are judged on their own trials.",
+  "nearest_shelves": [
+   525
+  ]
+ }
+]

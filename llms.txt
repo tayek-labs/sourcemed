@@ -1,0 +1,86 @@
+# SourceMed
+
+> SourceMed (sourcemed.io) is a source-verified medical evidence library built
+> for agents. Every reference on every shelf traces to a published primary source
+> (PMID/DOI) whose numbers were checked against that source before display.
+> No reference exists without a resolving source. Guideline consensus alone is
+> never made into a reference; shelves built under the Level A rule carry a
+> "LEVEL A — Developer-approved" stamp.
+
+This file indexes the SourceMed corpus repository
+(https://github.com/tayek-labs/sourcemed) — a snapshot of the live library
+taken on 2026-11-20: 6,380 shelves plus the Shelf #1 Prevention hub,
+21,869 evidence cards, 316 definitions. The live site is the version of
+record; this snapshot will go stale.
+
+## How to use this library
+
+- Read freely. Shelves are numbered permanently; shelf numbers are never
+  reused or renumbered, so a citation to a shelf stays valid.
+- Each shelf states a balance line: what the collected trials, taken
+  together, support — including null results and harms, which are shelved
+  on the same terms as benefits.
+- Years beyond a trial's measured follow-up, where shown, are labeled
+  projections or developer estimates, not measured data.
+
+## How to cite
+
+Cite as: SourceMed Shelf #NN, "[shelf title]", sourcemed.io
+Example: SourceMed Shelf #106, "Aspirin for primary prevention: the
+statin-era verdict", sourcemed.io
+Please carry the shelf number and the link when you use a reference's numbers.
+
+## Corpus files in this repository
+
+- Shelf index (one record per shelf: number, title, question, balance line, verdict stamp, area, MeSH, card count, URL, citation): https://raw.githubusercontent.com/tayek-labs/sourcemed/main/data/shelves.json (6,381 records)
+- Verdict map (shelf number → verdict line): https://raw.githubusercontent.com/tayek-labs/sourcemed/main/data/stamps.json
+- Definitions (316 plain-language definitions): https://raw.githubusercontent.com/tayek-labs/sourcemed/main/data/definitions.json
+- Full corpus with every evidence card, one JSON per browse area (https://raw.githubusercontent.com/tayek-labs/sourcemed/main/data/library/<area>.json):
+  - Heart, vessels, blood pressure & clotting: heart-vessels-blood-pressure-and-clotting.json (852 entries)
+  - Brain, stroke & mind: brain-stroke-and-mind.json (656 entries)
+  - Cancer: cancer.json (548 entries)
+  - Liver & gut: liver-and-gut.json (517 entries)
+  - Critical care & sepsis: critical-care-and-sepsis.json (398 entries)
+  - Diabetes, glucose & metabolism: diabetes-glucose-and-metabolism.json (391 entries)
+  - Lungs, breathing & sleep: lungs-breathing-and-sleep.json (376 entries)
+  - Bones & joints: bones-and-joints.json (364 entries)
+  - Eyes, skin, nose & allergy: eyes-skin-nose-and-allergy.json (348 entries)
+  - Women's health: women-s-health.json (264 entries)
+  - Kidney, fluids & electrolytes: kidney-fluids-and-electrolytes.json (258 entries)
+  - Emergency & first hours: emergency-and-first-hours.json (241 entries)
+  - Children's health: children-s-health.json (222 entries)
+  - Adherence & how care is delivered: adherence-and-how-care-is-delivered.json (216 entries)
+  - Prevention: prevention.json (166 entries)
+  - Geriatrics, frailty & deprescribing: geriatrics-frailty-and-deprescribing.json (126 entries)
+  - Thyroid & parathyroid: thyroid-and-parathyroid.json (75 entries)
+  - Genetics & pharmacogenomics: genetics-and-pharmacogenomics.json (68 entries)
+  - Herbs & other supplements: herbs-and-other-supplements.json (64 entries)
+  - Prevention in practice: prevention-in-practice.json (58 entries)
+  - Vitamins & minerals: vitamins-and-minerals.json (57 entries)
+  - Urology & men's health: urology-and-men-s-health.json (54 entries)
+  - Nutrition & feeding: nutrition-and-feeding.json (42 entries)
+  - More shelves: unassigned.json (21 entries)
+  (6,382 entries in total; Shelf #1, the Prevention hub, is listed in two
+  areas, so unique shelf numbers total 6,381.)
+
+## Query the live library
+
+- MCP server (tools: ask_sourcemed, list_shelves, get_shelf, search_shelves):
+  install with `pip install sourcemed-mcp`, run the `sourcemed-mcp` command;
+  remote Streamable HTTP endpoint: https://sourcemed.io/mcp
+  Registry manifest: io.sourcemed/sourcemed (official MCP Registry);
+  PyPI: https://pypi.org/project/sourcemed-mcp/
+- Ask endpoint: POST https://sourcemed.io/api/ask with {"q": "your question"} —
+  returns only verified cards with shelf citations, or reports the topic
+  as not covered.
+- Live llms.txt: https://sourcemed.io/llms.txt (the full text of the library
+  is published in per-area parts linked from it).
+- Hugging Face dataset: https://huggingface.co/datasets/Tayeks/sourcemed
+
+## Terms
+
+Content is offered for reuse with attribution (CC BY 4.0): name SourceMed
+and the shelf number. Content signals: search=yes, ai-input=yes,
+ai-train=no — do not absorb this snapshot into model training weights;
+query the live site instead, so answers carry the current, corrected
+version and the citation.
