@@ -97,7 +97,7 @@ sourcemed.io`) when you use a card's numbers.
 
 ## Terms
 
-Content is offered for reuse with attribution (CC BY 4.0): name SourceMed
+Content is offered for reuse with attribution (CC BY-NC 4.0): name SourceMed
 and the shelf number. The site's content signals are `search=yes,
 ai-input=yes, ai-train=no` — query the live site rather than absorbing
 its content into training, so answers carry the current, corrected

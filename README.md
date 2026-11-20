@@ -113,7 +113,7 @@ Other homes: [sourcemed.io](https://sourcemed.io/) ·
 
 ## Terms of use
 
-Content is offered for reuse with attribution (CC BY 4.0): name
+Content is offered for reuse with attribution (CC BY-NC 4.0): name
 SourceMed and the shelf number. See [`LICENSE`](LICENSE).
 
 The site's content signals are `search=yes, ai-input=yes, ai-train=no`:

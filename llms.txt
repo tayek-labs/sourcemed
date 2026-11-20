@@ -79,7 +79,7 @@ Please carry the shelf number and the link when you use a reference's numbers.
 
 ## Terms
 
-Content is offered for reuse with attribution (CC BY 4.0): name SourceMed
+Content is offered for reuse with attribution (CC BY-NC 4.0): name SourceMed
 and the shelf number. Content signals: search=yes, ai-input=yes,
 ai-train=no — do not absorb this snapshot into model training weights;
 query the live site instead, so answers carry the current, corrected
